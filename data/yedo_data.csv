@@ -1,0 +1,63 @@
+Site_ID,Latitude,Longitude,Elevation_in_Meters,State,Species_ID,Genus,Species,Common_Name,Kingdom,Phenophase_ID,Phenophase_Description,First_Yes_Sample_Size,Mean_First_Yes_Year,Mean_First_Yes_DOY,Mean_First_Yes_Julian_Date,SE_First_Yes_In_Days,Mean_NumDays_Since_Prior_No,SE_NumDays_Since_Prior_No,Last_Yes_Sample_Size,Mean_Last_Yes_Year,Mean_Last_Yes_DOY,Mean_Last_Yes_Julian_Date,SE_Last_Yes_in_Days,Mean_NumDays_Until_Next_No,SE_NumDays_Until_Next_No
+2348,35.926178,-78.692719,129,NC,228,Prunus,yedoensis,Yoshino cherry,Plantae,186,Full flowering (50%),1,2010,84,2455281,-9999,1,-9999,1,2010,84,2455281,-9999,11,-9999
+2348,35.926178,-78.692719,129,NC,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,1,2010,83,2455280,-9999,3,-9999,1,2010,84,2455281,-9999,11,-9999
+2424,35.875225,-78.737076,118,NC,228,Prunus,yedoensis,Yoshino cherry,Plantae,186,Full flowering (50%),1,2010,84,2455281,-9999,1,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+8309,39.731804,-104.961166,1639,CO,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2014,78,2456736,-9999,7,-9999,1,2014,107,2456765,-9999,8,-9999
+8309,39.731804,-104.961166,1639,CO,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,1,2014,89,2456747,-9999,6,-9999,1,2014,107,2456765,-9999,8,-9999
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2014,122,2456780,0,4,0
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,2,2015,96,2457119,4.5,8,1,2,2015,110,2457133,3.5,6.5,0.5
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,2,2015,119,2457142,0,6,0,2,2015,119,2457142,0,7,0
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2016,85,2457473,-9999,7,-9999,2,2016,85,2457473,0,7,0
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,2,2016,89,2457477,3.5,10.5,3.5,2,2016,109,2457497,2.5,4.5,2.5
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2017,95,2457849,-9999,6,-9999
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,1,2017,101,2457855,-9999,6,-9999,1,2017,109,2457863,-9999,9,-9999
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2018,79,2458198,-9999,3,-9999,1,2018,137,2458256,-9999,6,-9999
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,1,2018,108,2458227,-9999,7,-9999,1,2018,137,2458256,-9999,6,-9999
+28752,38.985867,-76.947266,51,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2018,66,2458185,-9999,7,-9999,1,2018,101,2458220,-9999,7,-9999
+28752,38.985867,-76.947266,51,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,2,2018,93,2458212,1,6,1,1,2018,101,2458220,-9999,7,-9999
+28788,38.984661,-76.93821,24,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,3,2018,79,2458198,10.588253449512,10.333333333333,3.8441875315569,1,2018,100,2458219,-9999,6,-9999
+28788,38.984661,-76.93821,24,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,3,2018,93,2458212,0.33333333333333,6.6666666666667,0.33333333333333,0,-9999,-9999,-9999,-9999,-9999,-9999
+28788,38.984661,-76.93821,24,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,502,Pollen release (flowers),1,2018,92,2458211,-9999,7,-9999,1,2018,92,2458211,-9999,7,-9999
+28790,38.991508,-76.950378,40,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,2,2018,65,2458184,7,7.5,0.5,1,2018,114,2458233,-9999,7,-9999
+28790,38.991508,-76.950378,40,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,2,2018,100,2458219,0,7.5,0.5,1,2018,114,2458233,-9999,7,-9999
+28791,38.992157,-76.943802,37,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2018,65,2458184,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+28791,38.992157,-76.943802,37,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,1,2018,65,2458184,-9999,14,-9999,1,2018,94,2458213,-9999,7,-9999
+28793,38.983994,-76.935974,21,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,2,2018,78,2458197,14,6,1,0,-9999,-9999,-9999,-9999,-9999,-9999
+28793,38.983994,-76.935974,21,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,2,2018,89,2458208,3,10,5,0,-9999,-9999,-9999,-9999,-9999,-9999
+28796,38.984314,-76.940369,38,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,3,2018,70,2458189,11.666666666667,13,4.1633319989323,1,2018,107,2458226,-9999,6,-9999
+28796,38.984314,-76.940369,38,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,3,2018,94,2458213,1,11.666666666667,4.6666666666667,1,2018,107,2458226,-9999,6,-9999
+28797,38.982372,-76.939468,31,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,4,2018,60,2458179,1.4361406616345,8.5,1.5,4,2018,84,2458203,13.341664064126,5.75,1.7969882210707
+28797,38.982372,-76.939468,31,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,4,2018,95,2458214,1.9364916731037,7.75,2.1746647251166,2,2018,107,2458226,1,6.5,1.5
+28918,38.988239,-76.943115,40,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,4,2018,74,2458193,9.1776449411963,14.25,3.6142080737002,1,2018,100,2458219,-9999,7,-9999
+28918,38.988239,-76.943115,40,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,4,2018,88,2458207,5.3385391260157,6.75,0.47871355387817,1,2018,100,2458219,-9999,7,-9999
+28923,38.986008,-76.938278,26,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,2,2018,72,2458191,14,12.5,0.5,1,2018,100,2458219,-9999,6,-9999
+28923,38.986008,-76.938278,26,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,2,2018,100,2458219,7,6.5,0.5,1,2018,100,2458219,-9999,6,-9999
+28933,38.989643,-76.940872,26,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,3,2018,58,2458177,3.5276684147528,5,2,3,2018,90,2458209,16.666666666667,6.3333333333333,0.66666666666667
+28933,38.989643,-76.940872,26,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,4,2018,89,2458208,6.1152132696524,8.5,2.3273733406282,2,2018,107,2458226,0,7,0
+28934,38.984295,-76.944366,50,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,3,2018,82,2458201,12.600705447624,9,2.5166114784236,2,2018,108,2458227,0.5,6.5,0.5
+28934,38.984295,-76.944366,50,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,3,2018,96,2458215,2.6666666666667,7.6666666666667,0.66666666666667,1,2018,108,2458227,-9999,7,-9999
+28954,38.98613,-76.938805,26,MD,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2018,86,2458205,-9999,13,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2019,86,2458570,-9999,8,-9999,1,2019,100,2458584,-9999,7,-9999
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,1,2019,93,2458577,-9999,7,-9999,1,2019,113,2458597,-9999,8,-9999
+32789,40.73082,-73.99733,5,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2019,93,2458577,-9999,25,-9999,1,2019,102,2458586,-9999,4,-9999
+32789,40.73082,-73.99733,5,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,1,2019,98,2458582,-9999,5,-9999,1,2019,157,2458641,-9999,24,-9999
+32789,40.73082,-73.99733,5,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2020,55,2458904,-9999,5,-9999,1,2020,86,2458935,-9999,21,-9999
+36676,37.987316,-84.401337,309,KY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,101,2458950,-9999,4,-9999
+36676,37.987316,-84.401337,309,KY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,101,2458950,-9999,4,-9999
+37660,40.201962,-75.535255,60,PA,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2020,94,2458943,-9999,4,-9999,1,2020,121,2458970,-9999,3,-9999
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2021,356,2459571,-9999,21,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+32789,40.73082,-73.99733,5,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2021,70,2459285,-9999,4,-9999,1,2021,100,2459315,-9999,4,-9999
+32789,40.73082,-73.99733,5,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,1,2021,95,2459310,-9999,2,-9999,1,2021,112,2459327,-9999,3,-9999
+43087,29.531181,106.512856,288,Chongqing Shi,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,2,2021,111,2459326,8,7.5,1.5,2,2021,93,2459308,10.5,8,1
+43604,40.94595,-74.017372,7,NJ,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,104,2459319,-9999,6,-9999
+43604,40.94595,-74.017372,7,NJ,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,104,2459319,-9999,6,-9999
+43923,47.657265,-122.307213,50,WA,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2021,106,2459321,-9999,8,-9999,1,2021,106,2459321,-9999,5,-9999
+43923,47.657265,-122.307213,50,WA,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,122,2459337,-9999,5,-9999
+43987,47.208603,-122.473312,90,WA,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,125,2459340,-9999,9,-9999
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2022,97,2459677,-9999,8,-9999,1,2022,114,2459694,-9999,4,-9999
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,1,2022,97,2459677,-9999,8,-9999,1,2022,114,2459694,-9999,4,-9999
+32789,40.73082,-73.99733,5,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2022,64,2459644,-9999,10,-9999,1,2022,91,2459671,-9999,10,-9999
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,1,2023,73,2460018,-9999,12,-9999,1,2023,152,2460097,-9999,6,-9999
+18536,40.866119,-73.879341,25,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,1,2023,99,2460044,-9999,7,-9999,1,2023,110,2460055,-9999,3,-9999
+32789,40.73082,-73.99733,5,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,79,2460024,-9999,15,-9999
+32789,40.73082,-73.99733,5,NY,228,Prunus,yedoensis,Yoshino cherry,Plantae,501,Open flowers,1,2023,92,2460037,-9999,13,-9999,1,2023,100,2460045,-9999,8,-9999

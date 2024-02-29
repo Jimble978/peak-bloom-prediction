@@ -1,0 +1,1162 @@
+Site_ID,Latitude,Longitude,Elevation_in_Meters,State,Species_ID,Genus,Species,Common_Name,Kingdom,Phenophase_ID,Phenophase_Description,First_Yes_Sample_Size,Mean_First_Yes_Year,Mean_First_Yes_DOY,Mean_First_Yes_Julian_Date,SE_First_Yes_In_Days,Mean_NumDays_Since_Prior_No,SE_NumDays_Since_Prior_No,Last_Yes_Sample_Size,Mean_Last_Yes_Year,Mean_Last_Yes_DOY,Mean_Last_Yes_Julian_Date,SE_Last_Yes_in_Days,Mean_NumDays_Until_Next_No,SE_NumDays_Until_Next_No
+44,40.633945,-75.662949,620,PA,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,121,2454953,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+384,41.214497,-85.126816,262,IN,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,125,2454957,-9999,7,-9999,1,2009,125,2454957,-9999,14,-9999
+384,41.214497,-85.126816,262,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2009,118,2454950,-9999,8,-9999,1,2009,125,2454957,-9999,14,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),3,2009,88,2454920,1.7320508075689,4.3333333333333,0.8819171036882,0,-9999,-9999,-9999,-9999,-9999,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2009,87,2454919,2,8,3.0550504633039,0,-9999,-9999,-9999,-9999,-9999,-9999
+489,40.287205,-74.53392,30,NJ,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,119,2454951,-9999,2,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+489,40.287205,-74.53392,30,NJ,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2009,117,2454949,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+714,38.793007,-78.026627,165,VA,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,108,2454940,-9999,2,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+714,38.793007,-78.026627,165,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2009,106,2454938,0,4,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+906,38.804558,-89.944405,165,IL,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,108,2454940,-9999,21,-9999,1,2009,108,2454940,-9999,17,-9999
+906,38.804558,-89.944405,165,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2009,102,2454934,-9999,15,-9999,1,2009,102,2454934,-9999,6,-9999
+950,30.178402,-81.757507,2,FL,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),0,-9999,-9999,-9999,-9999,-9999,-9999,1,2009,66,2454898,-9999,14,-9999
+950,30.178402,-81.757507,2,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2009,66,2454898,-9999,14,-9999
+974,42.466019,-71.212372,51,MA,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),0,-9999,-9999,-9999,-9999,-9999,-9999,1,2009,119,2454951,-9999,17,-9999
+990,38.907368,-90.047646,158,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2009,93,2454925,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1007,39.955685,-74.874466,13,NJ,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,114,2454946,-9999,2,-9999,1,2009,117,2454949,-9999,25,-9999
+1007,39.955685,-74.874466,13,NJ,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2009,112,2454944,-9999,3,-9999,1,2009,117,2454949,-9999,25,-9999
+1147,33.863708,-84.534836,310,GA,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),2,2009,77,2454909,9,8,4,2,2009,85,2454917,16.5,16.5,7.5
+1147,33.863708,-84.534836,310,GA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2009,68,2454900,-9999,4,-9999,2,2009,69,2454901,5,8,4
+1162,43.202087,-77.602692,125,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2009,114,2454946,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1211,36.161465,-87.016701,166,TN,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),0,-9999,-9999,-9999,-9999,-9999,-9999,1,2009,109,2454941,-9999,7,-9999
+1211,36.161465,-87.016701,166,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2009,109,2454941,-9999,7,-9999
+1322,37.4659,-79.972916,388,VA,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,109,2454941,-9999,4,-9999,1,2009,122,2454954,-9999,9,-9999
+1322,37.4659,-79.972916,388,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2009,105,2454937,-9999,12,-9999,1,2009,119,2454951,-9999,3,-9999
+1385,38.845295,-77.329628,121,VA,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,109,2454941,-9999,2,-9999,1,2009,109,2454941,-9999,5,-9999
+1385,38.845295,-77.329628,121,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2009,109,2454941,-9999,5,-9999
+1403,35.991276,-78.931061,115,NC,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,78,2454910,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1439,35.177692,-83.313683,650,NC,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,86,2454918,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1536,39.039295,-94.437675,316,MO,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,102,2454934,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1536,39.039295,-94.437675,316,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2009,98,2454930,-9999,1,-9999,1,2009,87,2454919,-9999,2,-9999
+1562,42.296295,-83.765404,299,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2009,126,2454958,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1603,36.133862,-81.681114,1074,NC,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,107,2454939,-9999,10,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2009,84,2454916,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2009,74,2454906,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+6,43.040955,-76.212914,163,NY,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),0,-9999,-9999,-9999,-9999,-9999,-9999,1,2010,127,2455324,-9999,6,-9999
+6,43.040955,-76.212914,163,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2010,127,2455324,-9999,6,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),3,2010,96,2455293,0,2,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2010,95,2455292,0.66666666666667,8,3,0,-9999,-9999,-9999,-9999,-9999,-9999
+906,38.804558,-89.944405,165,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2010,97,2455294,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+950,30.178402,-81.757507,2,FL,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2010,73,2455270,-9999,28,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1385,38.845295,-77.329628,121,VA,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2010,99,2455296,-9999,1,-9999,1,2010,105,2455302,-9999,1,-9999
+1385,38.845295,-77.329628,121,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2010,95,2455292,-9999,1,-9999,1,2010,95,2455292,-9999,3,-9999
+1841,39.973316,-82.802826,275,OH,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2010,113,2455310,-9999,11,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1841,39.973316,-82.802826,275,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2010,96,2455293,-9999,2,-9999,1,2010,102,2455299,-9999,11,-9999
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),2,2010,91,2455288,0,1,0,2,2010,101,2455298,0,13,0
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2010,86,2455283,2.5,4,3,2,2010,101,2455298,0,13,0
+2442,37.228249,-80.421249,621,VA,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),3,2010,109,2455306,0,6,0,3,2010,112,2455309,0,4.3333333333333,0.33333333333333
+2442,37.228249,-80.421249,621,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2010,95,2455292,0,3,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+2447,35.914932,-78.709885,118,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2010,68,2455265,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+2551,37.227528,-80.422066,620,VA,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),3,2010,105,2455302,1,2.3333333333333,0.33333333333333,3,2010,114,2455311,0,2,0
+2551,37.227528,-80.422066,620,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2010,99,2455296,0.66666666666667,2.6666666666667,0.33333333333333,3,2010,118,2455315,0,2,0
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2010,291,2455488,-9999,3,-9999,1,2010,291,2455488,-9999,11,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2010,291,2455488,-9999,3,-9999,1,2010,291,2455488,-9999,11,-9999
+3,35.879211,-84.172203,284,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,79,2455641,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+6,43.040955,-76.212914,163,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2011,122,2455684,-9999,4,-9999,1,2011,129,2455691,-9999,3,-9999
+6,43.040955,-76.212914,163,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,129,2455691,-9999,4,-9999,1,2011,142,2455704,-9999,8,-9999
+44,40.633945,-75.662949,620,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2011,117,2455679,11.5,15.5,11.5,0,-9999,-9999,-9999,-9999,-9999,-9999
+44,40.633945,-75.662949,620,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2011,122,2455684,6,14.5,12.5,0,-9999,-9999,-9999,-9999,-9999,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2011,90,2455652,7.6666666666667,13,5,0,-9999,-9999,-9999,-9999,-9999,-9999
+906,38.804558,-89.944405,165,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2011,99,2455661,-9999,15,-9999
+906,38.804558,-89.944405,165,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,99,2455661,-9999,18,-9999,1,2011,99,2455661,-9999,15,-9999
+1385,38.845295,-77.329628,121,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2011,114,2455676,-9999,9,-9999
+1385,38.845295,-77.329628,121,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,104,2455666,-9999,3,-9999,1,2011,135,2455697,-9999,4,-9999
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2011,71,2455633,-9999,2,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2011,87,2455649,0,10,3
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2011,78,2455640,9.5,9.5,6.5,2,2011,91,2455653,3.5,6.5,0.5
+2538,28.087675,-82.580002,12,FL,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2011,56,2455618,-9999,1,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+2538,28.087675,-82.580002,12,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,50,2455612,-9999,1,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2011,114,2455676,-9999,1,-9999,1,2011,115,2455677,-9999,4,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,80,2455642,-9999,1,-9999,1,2011,115,2455677,-9999,4,-9999
+4881,28.045185,-82.706299,3,FL,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2011,56,2455618,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+4881,28.045185,-82.706299,3,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2011,201,2455763,156.5,8,1,1,2011,49,2455611,-9999,7,-9999
+5180,33.226402,-97.12989,196,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,59,2455621,-9999,5,-9999,1,2011,68,2455630,-9999,12,-9999
+5184,33.193676,-96.889923,170,TX,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2011,77,2455639,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+5184,33.193676,-96.889923,170,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2011,98,2455660,-9999,2,-9999
+5184,33.193676,-96.889923,170,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,60,2455622,-9999,2,-9999,1,2011,98,2455660,-9999,2,-9999
+5186,33.21476,-97.151115,217,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,60,2455622,-9999,5,-9999,1,2011,87,2455649,-9999,1,-9999
+5191,33.21484,-97.133064,201,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,59,2455621,-9999,4,-9999,1,2011,68,2455630,-9999,12,-9999
+5199,33.228146,-97.108994,197,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2011,95,2455657,-9999,6,-9999
+5199,33.228146,-97.108994,197,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,59,2455621,-9999,7,-9999,1,2011,95,2455657,-9999,6,-9999
+5202,33.114838,-97.06636,156,TX,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2011,66,2455628,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+5202,33.114838,-97.06636,156,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2011,87,2455649,-9999,4,-9999,1,2011,89,2455651,-9999,5,-9999
+5202,33.114838,-97.06636,156,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,59,2455621,-9999,5,-9999,1,2011,89,2455651,-9999,5,-9999
+5252,33.21484,-97.133064,201,TX,7,Cercis,canadensis,eastern redbud,Plantae,186,Full flowering (50%),1,2011,60,2455622,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+5252,33.21484,-97.133064,201,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2011,82,2455644,-9999,5,-9999
+5252,33.21484,-97.133064,201,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,73,2455635,-9999,5,-9999,1,2011,82,2455644,-9999,5,-9999
+5573,33.214802,-97.132896,201,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,52,2455614,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2011,79,2455641,-9999,17,-9999,1,2011,278,2455840,-9999,9,-9999
+44,40.633945,-75.662949,620,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2012,87,2456014,-9999,5,-9999,2,2012,115,2456042,0,9,0
+44,40.633945,-75.662949,620,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2012,103,2456030,12.5,8,0,1,2012,115,2456042,-9999,9,-9999
+906,38.804558,-89.944405,165,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2012,76,2456003,-9999,13,-9999,1,2012,88,2456015,-9999,18,-9999
+906,38.804558,-89.944405,165,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2012,88,2456015,-9999,12,-9999,1,2012,88,2456015,-9999,18,-9999
+1206,41.4076,-72.457336,23,CT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2012,105,2456032,-9999,17,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2012,65,2455992,-9999,7,-9999,1,2012,85,2456012,-9999,8,-9999
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2012,71,2455998,-9999,6,-9999,1,2012,85,2456012,-9999,8,-9999
+2623,40.710339,-81.885284,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2012,93,2456020,-9999,4,-9999,1,2012,116,2456043,-9999,12,-9999
+2623,40.710339,-81.885284,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2012,89,2456016,-9999,4,-9999,1,2012,109,2456036,-9999,7,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2012,70,2455997,-9999,1,-9999,1,2012,93,2456020,-9999,2,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2012,80,2456007,-9999,1,-9999,1,2012,93,2456020,-9999,2,-9999
+4881,28.045185,-82.706299,3,FL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2012,28,2455955,-9999,11,-9999,1,2012,36,2455963,-9999,6,-9999
+4881,28.045185,-82.706299,3,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2012,36,2455963,-9999,6,-9999
+5098,39.427235,-88.209732,211,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2012,107,2456034,-9999,4,-9999
+5098,39.427235,-88.209732,211,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2012,118,2456045,-9999,3,-9999
+5343,38.377724,-78.96431,363,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2012,106,2456033,-9999,13,-9999
+5343,38.377724,-78.96431,363,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2012,106,2456033,-9999,13,-9999
+5934,28.039858,-82.718468,25,FL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2012,57,2455984,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+5934,28.039858,-82.718468,25,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2012,78,2456005,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+6439,37.691261,-97.300652,401,KS,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2012,68,2455995,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+6446,35.217304,-97.446136,-9999,-9999,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2012,67,2455994,0,10,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+6446,35.217304,-97.446136,-9999,-9999,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2012,85,2456012,0,18,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+6557,35.178806,-97.447266,331,OK,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,4,2012,66,2455993,1.6520189667999,3.25,0.6291528696059,4,2012,96,2456023,0,5,0
+6557,35.178806,-97.447266,331,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,4,2012,72,2455999,0.28867513459481,3,1.1547005383793,4,2012,96,2456023,0,5,0
+6592,35.222569,-97.439476,356,OK,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,4,2012,72,2455999,0.25,1,0,4,2012,75,2456002,1.2247448713916,3.5,0.86602540378444
+6592,35.222569,-97.439476,356,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,4,2012,75,2456002,1.2247448713916,1.75,0.47871355387817,1,2012,73,2456000,-9999,3,-9999
+6640,35.179417,-97.447594,331,OK,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2012,87,2456014,0,13,0,3,2012,87,2456014,0,14,0
+6640,35.179417,-97.447594,331,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2012,87,2456014,0,13,0,3,2012,87,2456014,0,14,0
+8232,41.599716,-87.056915,194,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2012,119,2456046,-9999,11,-9999,1,2012,119,2456046,-9999,6,-9999
+8386,35.179722,-97.445724,332,OK,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,7,2012,67,2455994,0.9931739816483,4.1428571428571,0.55328333517249,0,-9999,-9999,-9999,-9999,-9999,-9999
+8386,35.179722,-97.445724,332,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,6,2012,82,2456009,3.5378901433858,10.666666666667,2.7648588471104,0,-9999,-9999,-9999,-9999,-9999,-9999
+8396,35.180058,-97.446617,332,OK,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2012,64,2455991,1,2.3333333333333,0.33333333333333,3,2012,74,2456001,0.66666666666667,9.3333333333333,3.6666666666667
+8396,35.180058,-97.446617,332,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2012,82,2456009,6.5,7.5,5.5,0,-9999,-9999,-9999,-9999,-9999,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2012,83,2456010,-9999,12,-9999,1,2012,83,2456010,-9999,13,-9999
+3,35.879211,-84.172203,284,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,76,2456369,-9999,2,-9999,1,2013,118,2456411,-9999,2,-9999
+3,35.879211,-84.172203,284,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2013,98,2456391,-9999,2,-9999,1,2013,118,2456411,-9999,2,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,103,2456396,-9999,2,-9999,1,2013,141,2456434,-9999,6,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2013,122,2456415,-9999,7,-9999,1,2013,147,2456440,-9999,5,-9999
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2013,62,2456355,0,14,0,2,2013,94,2456387,3.5,7,0
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2013,76,2456369,7,5.5,1.5,2,2013,94,2456387,3.5,7,0
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,70,2456363,-9999,5,-9999,1,2013,126,2456419,-9999,1,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2013,105,2456398,-9999,1,-9999,1,2013,126,2456419,-9999,1,-9999
+5098,39.427235,-88.209732,211,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,120,2456413,-9999,15,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+5098,39.427235,-88.209732,211,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2013,120,2456413,-9999,15,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+5343,38.377724,-78.96431,363,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,104,2456397,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+5343,38.377724,-78.96431,363,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2013,104,2456397,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+5523,43.692337,-70.270424,32,ME,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,103,2456396,-9999,3,-9999,1,2013,162,2456455,-9999,6,-9999
+5523,43.692337,-70.270424,32,ME,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2013,130,2456423,-9999,4,-9999,1,2013,162,2456455,-9999,6,-9999
+6701,36.03521,-83.950249,345,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2013,111,2456404,-9999,25,-9999
+6701,36.03521,-83.950249,345,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2013,111,2456404,-9999,25,-9999
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,48,2456341,-9999,4,-9999,1,2013,96,2456389,-9999,4,-9999
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2013,77,2456370,-9999,5,-9999,1,2013,96,2456389,-9999,4,-9999
+9086,37.381329,-80.088806,613,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,107,2456400,-9999,8,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+9086,37.381329,-80.088806,613,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2013,107,2456400,-9999,8,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,93,2456386,-9999,7,-9999,1,2013,106,2456399,-9999,5,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,99,2456392,-9999,6,-9999,1,2013,121,2456414,-9999,6,-9999
+9592,37.525387,-84.99855,258,KY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,82,2456375,-9999,7,-9999,1,2013,123,2456416,-9999,1,-9999
+9592,37.525387,-84.99855,258,KY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2013,123,2456416,-9999,1,-9999
+9860,35.179035,-97.446968,332,OK,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,83,2456376,-9999,9,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+9860,35.179035,-97.446968,332,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2013,83,2456376,-9999,9,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+10408,32.232498,-95.165802,110,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2013,92,2456385,-9999,12,-9999
+10408,32.232498,-95.165802,110,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2013,92,2456385,-9999,12,-9999
+17169,42.294979,-71.303253,38,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2013,121,2456414,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+3,35.879211,-84.172203,284,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,80,2456738,-9999,5,-9999,1,2014,117,2456775,-9999,5,-9999
+3,35.879211,-84.172203,284,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,96,2456754,-9999,11,-9999,1,2014,117,2456775,-9999,5,-9999
+6,43.040955,-76.212914,163,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,114,2456772,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+6,43.040955,-76.212914,163,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,135,2456793,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2014,76,2456734,0,4,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2014,101,2456759,1,2.3333333333333,0.66666666666667,0,-9999,-9999,-9999,-9999,-9999,-9999
+1007,39.955685,-74.874466,13,NJ,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2014,121,2456779,-9999,28,-9999
+1007,39.955685,-74.874466,13,NJ,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2014,121,2456779,-9999,28,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,87,2456745,-9999,8,-9999,1,2014,134,2456792,-9999,1,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,115,2456773,-9999,1,-9999,1,2014,136,2456794,-9999,3,-9999
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,75,2456733,-9999,7,-9999,2,2014,101,2456759,2,7.5,3.5
+2335,31.969622,-98.886833,546,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2014,89,2456747,3,3.5,0.5,2,2014,101,2456759,2,7.5,3.5
+2623,40.710339,-81.885284,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,126,2456784,-9999,14,-9999,1,2014,130,2456788,-9999,8,-9999
+2623,40.710339,-81.885284,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,130,2456788,-9999,9,-9999,1,2014,130,2456788,-9999,8,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,87,2456745,-9999,9,-9999,1,2014,122,2456780,-9999,3,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,101,2456759,-9999,1,-9999,1,2014,126,2456784,-9999,1,-9999
+5173,35.996983,-83.889839,309,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,78,2456736,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+5343,38.377724,-78.96431,363,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,102,2456760,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+5523,43.692337,-70.270424,32,ME,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,135,2456793,-9999,11,-9999,1,2014,156,2456814,-9999,4,-9999
+5523,43.692337,-70.270424,32,ME,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,135,2456793,-9999,11,-9999,1,2014,156,2456814,-9999,4,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2014,108,2456766,-9999,5,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,108,2456766,-9999,7,-9999,1,2014,113,2456771,-9999,10,-9999
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2014,82,2456740,0,3,0,2,2014,99,2456757,7,4,0
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2014,84,2456742,1.5,3,0,2,2014,99,2456757,7,4,0
+9077,40.712879,-73.599998,21,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2014,254,2456912,-9999,5,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,91,2456749,-9999,7,-9999,1,2014,113,2456771,-9999,12,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,99,2456757,-9999,5,-9999,1,2014,111,2456769,-9999,11,-9999
+9813,29.765047,-95.452187,17,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2014,67,2456725,-9999,15,-9999
+9813,29.765047,-95.452187,17,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2014,67,2456725,-9999,15,-9999
+9860,35.179035,-97.446968,332,OK,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2014,91,2456749,0,5.5,1.5,0,-9999,-9999,-9999,-9999,-9999,-9999
+9860,35.179035,-97.446968,332,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,98,2456756,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+10122,40.323967,-75.104736,128,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,111,2456769,-9999,13,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+16259,35.533974,-82.664558,675,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,86,2456744,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+16259,35.533974,-82.664558,675,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,101,2456759,-9999,15,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+16608,37.254868,-79.986374,321,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2014,107,2456765,0,14,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+16637,37.254807,-79.963844,299,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,94,2456752,-9999,3,-9999,1,2014,114,2456772,-9999,8,-9999
+16637,37.254807,-79.963844,299,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,101,2456759,-9999,3,-9999,1,2014,114,2456772,-9999,8,-9999
+16645,37.189873,-80.088455,492,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2014,122,2456780,-9999,20,-9999
+16645,37.189873,-80.088455,492,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,102,2456760,-9999,4,-9999,1,2014,122,2456780,-9999,20,-9999
+17169,42.294979,-71.303253,38,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,114,2456772,-9999,16,-9999,1,2014,129,2456787,-9999,5,-9999
+17169,42.294979,-71.303253,38,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,129,2456787,-9999,4,-9999,1,2014,129,2456787,-9999,5,-9999
+17685,37.229572,-80.41394,631,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,104,2456762,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+18268,38.455536,-122.722595,45,CA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2014,212,2456870,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+18269,38.456081,-122.720764,45,CA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2014,183,2456841,-9999,6,-9999,1,2014,196,2456854,-9999,7,-9999
+19165,35.485004,-82.534576,663,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2014,297,2456955,-9999,6,-9999
+3,35.879211,-84.172203,284,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,81,2457104,-9999,3,-9999,1,2015,106,2457129,-9999,6,-9999
+3,35.879211,-84.172203,284,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,90,2457113,-9999,3,-9999,1,2015,106,2457129,-9999,6,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2015,84,2457107,0,8,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+1248,38.762318,-90.498421,153,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2015,101,2457124,-9999,3,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,70,2457093,-9999,6,-9999,1,2015,134,2457157,-9999,6,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,110,2457133,-9999,3,-9999,1,2015,127,2457150,-9999,4,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,88,2457111,-9999,1,-9999,1,2015,116,2457139,-9999,1,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,99,2457122,-9999,1,-9999,1,2015,116,2457139,-9999,1,-9999
+5523,43.692337,-70.270424,32,ME,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,129,2457152,-9999,1,-9999,1,2015,146,2457169,-9999,16,-9999
+5523,43.692337,-70.270424,32,ME,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,129,2457152,-9999,1,-9999,1,2015,146,2457169,-9999,16,-9999
+6701,36.03521,-83.950249,345,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,83,2457106,-9999,16,-9999,1,2015,103,2457126,-9999,6,-9999
+6701,36.03521,-83.950249,345,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,95,2457118,-9999,7,-9999,1,2015,103,2457126,-9999,6,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,120,2457143,-9999,12,-9999,1,2015,95,2457118,-9999,13,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,95,2457118,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2015,83,2457106,1.5,3.5,0.5,2,2015,95,2457118,0,3,0
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2015,83,2457106,1.5,3.5,0.5,2,2015,95,2457118,0,3,0
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,124,2457147,-9999,5,-9999,1,2015,124,2457147,-9999,2,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,124,2457147,-9999,5,-9999,1,2015,124,2457147,-9999,2,-9999
+9860,35.179035,-97.446968,332,OK,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,85,2457108,-9999,5,-9999,1,2015,92,2457115,-9999,7,-9999
+9860,35.179035,-97.446968,332,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,92,2457115,-9999,7,-9999,1,2015,92,2457115,-9999,7,-9999
+10122,40.323967,-75.104736,128,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,123,2457146,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+11154,38.799816,-94.690666,279,KS,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2015,88,2457111,3.5,10.5,3.5,1,2015,112,2457135,-9999,7,-9999
+11154,38.799816,-94.690666,279,KS,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2015,95,2457118,3.5,7,0,1,2015,112,2457135,-9999,7,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2015,141,2457164,-9999,6,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,141,2457164,-9999,9,-9999,1,2015,141,2457164,-9999,6,-9999
+16374,37.835827,-122.25074,56,CA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,265,2457288,-9999,4,-9999,1,2015,328,2457351,-9999,4,-9999
+16374,37.835827,-122.25074,56,CA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,265,2457288,-9999,4,-9999,1,2015,265,2457288,-9999,2,-9999
+17583,40.892975,-74.007751,46,NJ,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,111,2457134,-9999,5,-9999,1,2015,118,2457141,-9999,9,-9999
+17583,40.892975,-74.007751,46,NJ,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,118,2457141,-9999,7,-9999,1,2015,127,2457150,-9999,8,-9999
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,114,2457137,-9999,7,-9999,1,2015,120,2457143,-9999,8,-9999
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,128,2457151,-9999,8,-9999,1,2015,135,2457158,-9999,13,-9999
+18867,38.216927,-85.762497,138,KY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,301,2457324,-9999,2,-9999,1,2015,301,2457324,-9999,2,-9999
+19211,35.353306,-83.195366,647,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,92,2457115,-9999,9,-9999,2,2015,291,2457314,4,10.5,2.5
+19211,35.353306,-83.195366,647,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,328,2457351,-9999,20,-9999,1,2015,287,2457310,-9999,8,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,61,2457084,-9999,21,-9999,1,2015,344,2457367,-9999,2,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,61,2457084,-9999,21,-9999,1,2015,255,2457278,-9999,19,-9999
+19799,30.465828,-84.178207,14,FL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,69,2457092,-9999,2,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+19799,30.465828,-84.178207,14,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,69,2457092,-9999,2,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+19925,36.424603,-95.525764,222,OK,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2015,113,2457136,-9999,6,-9999
+19925,36.424603,-95.525764,222,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,92,2457115,-9999,3,-9999,1,2015,113,2457136,-9999,6,-9999
+20057,42.183475,-88.053925,239,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,109,2457132,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+20057,42.183475,-88.053925,239,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,110,2457133,-9999,1,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+20084,38.91819,-77.198143,106,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,102,2457125,-9999,18,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+20262,38.942104,-76.965233,23,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,109,2457132,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+20687,41.891636,-87.616814,178,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2015,64,2457087,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+20687,41.891636,-87.616814,178,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2015,102,2457125,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+20724,43.43008,-89.733604,331,WI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2015,131,2457154,-9999,18,-9999
+20724,43.43008,-89.733604,331,WI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2015,131,2457154,-9999,18,-9999
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2015,105,2457128,0,8,0
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2016,69,2457457,1.6666666666667,5.3333333333333,0.33333333333333,1,2016,98,2457486,-9999,7,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2016,87,2457475,2.6666666666667,11.333333333333,1.6666666666667,1,2016,105,2457493,-9999,5,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2016,55,2457443,-9999,5,-9999,1,2016,125,2457513,-9999,4,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,64,2457452,-9999,6,-9999,1,2016,121,2457509,-9999,4,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2016,74,2457462,-9999,1,-9999,1,2016,112,2457500,-9999,2,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,88,2457476,-9999,1,-9999,1,2016,112,2457500,-9999,2,-9999
+5523,43.692337,-70.270424,32,ME,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2016,126,2457514,-9999,2,-9999,1,2016,149,2457537,-9999,3,-9999
+5523,43.692337,-70.270424,32,ME,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,138,2457526,-9999,5,-9999,1,2016,149,2457537,-9999,3,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2016,129,2457517,-9999,7,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,104,2457492,-9999,4,-9999,1,2016,129,2457517,-9999,7,-9999
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2016,52,2457440,0,4,0,2,2016,80,2457468,3.5,4,0
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2016,57,2457445,2,3.5,0.5,2,2016,80,2457468,3.5,4,0
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2016,77,2457465,-9999,10,-9999,1,2016,258,2457646,-9999,7,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,77,2457465,-9999,10,-9999,1,2016,96,2457484,-9999,9,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2016,74,2457462,-9999,14,-9999,1,2016,98,2457486,-9999,12,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,74,2457462,-9999,14,-9999,1,2016,98,2457486,-9999,12,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2016,140,2457528,-9999,14,-9999,1,2016,170,2457558,-9999,23,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,140,2457528,-9999,14,-9999,1,2016,170,2457558,-9999,23,-9999
+17405,35.273144,-82.453087,683,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2016,105,2457493,-9999,14,-9999
+17405,35.273144,-82.453087,683,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2016,105,2457493,-9999,14,-9999
+17468,34.591991,-84.208107,929,GA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2016,99,2457487,-9999,12,-9999
+17468,34.591991,-84.208107,929,GA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2016,95,2457483,0,11,0,1,2016,99,2457487,-9999,12,-9999
+18867,38.216927,-85.762497,138,KY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2016,59,2457447,6.4377359719427,6.6666666666667,4.7022453265553,3,2016,162,2457550,65.833966241683,1.6666666666667,0.66666666666667
+18867,38.216927,-85.762497,138,KY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2016,86,2457474,9.5043849529222,9.3333333333333,7.3560254969046,2,2016,96,2457484,0,1,0
+19211,35.353306,-83.195366,647,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2016,68,2457456,3.5,7.5,0.5,0,-9999,-9999,-9999,-9999,-9999,-9999
+19211,35.353306,-83.195366,647,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2016,89,2457477,0,18,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2016,7,2457395,-9999,5,-9999,1,2016,296,2457684,-9999,5,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,77,2457465,-9999,7,-9999,1,2016,296,2457684,-9999,5,-9999
+20249,38.613323,-90.258934,157,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2016,78,2457466,-9999,2,-9999,2,2016,215,2457603,99,3.5,1.5
+20249,38.613323,-90.258934,157,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2016,82,2457470,3.5,2,0,2,2016,211,2457599,94.5,2,0
+21778,35.065922,-83.966927,488,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2016,78,2457466,0,16,7,1,2016,83,2457471,-9999,7,-9999
+21778,35.065922,-83.966927,488,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2016,94,2457482,3.5,13,6,0,-9999,-9999,-9999,-9999,-9999,-9999
+21914,35.57814,-82.5868,658,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2016,61,2457449,-9999,11,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+21914,35.57814,-82.5868,658,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,86,2457474,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2016,104,2457492,0,7,0
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2016,83,2457471,0,7,0,2,2016,111,2457499,0,7,0
+22332,39.07151,-108.543869,1404,CO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,97,2457485,-9999,15,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+22589,36.615578,-88.321381,161,KY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,5,2016,61,2457449,1.4,10.2,0.8,5,2016,109,2457497,2.2135943621179,7,0
+22589,36.615578,-88.321381,161,KY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,5,2016,85,2457473,1.7146428199482,7,0,5,2016,109,2457497,2.2135943621179,7,0
+22857,35.592937,-82.49382,678,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2016,104,2457492,-9999,8,-9999,1,2016,110,2457498,-9999,5,-9999
+22857,35.592937,-82.49382,678,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,81,2457469,-9999,4,-9999,1,2016,92,2457480,-9999,4,-9999
+22934,38.007008,-91.459366,226,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2016,91,2457479,-9999,23,-9999
+23071,29.463058,-98.484146,244,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2016,71,2457459,-9999,26,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+23074,39.208076,-76.658577,51,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2016,111,2457499,-9999,2,-9999
+23074,39.208076,-76.658577,51,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2016,111,2457499,-9999,2,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2017,61,2457815,0,7,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+1007,39.955685,-74.874466,13,NJ,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2017,131,2457885,-9999,10,-9999
+1007,39.955685,-74.874466,13,NJ,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,105,2457859,-9999,6,-9999,1,2017,131,2457885,-9999,10,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,67,2457821,-9999,19,-9999,1,2017,130,2457884,-9999,5,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,89,2457843,-9999,2,-9999,1,2017,130,2457884,-9999,5,-9999
+2804,39.238476,-77.225708,193,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,89,2457843,-9999,2,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,78,2457832,-9999,8,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,84,2457838,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2017,50,2457804,0,4,0,2,2017,83,2457837,2,3.5,0.5
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2017,57,2457811,0,4,0,2,2017,83,2457837,2,3.5,0.5
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,67,2457821,-9999,6,-9999,1,2017,102,2457856,-9999,9,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,90,2457844,-9999,14,-9999,1,2017,102,2457856,-9999,9,-9999
+10122,40.323967,-75.104736,128,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,106,2457860,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,103,2457857,-9999,3,-9999,1,2017,144,2457898,-9999,8,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,117,2457871,-9999,2,-9999,1,2017,144,2457898,-9999,8,-9999
+17062,35.27227,-92.317642,139,AR,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2017,77,2457831,-9999,13,-9999
+17062,35.27227,-92.317642,139,AR,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2017,77,2457831,-9999,13,-9999
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,102,2457856,-9999,7,-9999,1,2017,138,2457892,-9999,8,-9999
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,111,2457865,-9999,9,-9999,1,2017,138,2457892,-9999,8,-9999
+18867,38.216927,-85.762497,138,KY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2017,148,2457902,61.333333333333,1,0,2,2017,90,2457844,0,4,0
+18867,38.216927,-85.762497,138,KY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2017,179,2457933,92,1,0,1,2017,90,2457844,-9999,4,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,266,2458020,-9999,1,-9999,1,2017,341,2458095,-9999,8,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,54,2457808,-9999,5,-9999,1,2017,341,2458095,-9999,8,-9999
+20120,42.366829,-71.257408,53,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,290,2458044,-9999,2,-9999,1,2017,319,2458073,-9999,1,-9999
+20120,42.366829,-71.257408,53,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,290,2458044,-9999,2,-9999,1,2017,319,2458073,-9999,1,-9999
+20249,38.613323,-90.258934,157,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2017,59,2457813,0,6,0,2,2017,223,2457977,112,4,0
+20249,38.613323,-90.258934,157,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2017,70,2457824,3.5,6,1,2,2017,223,2457977,112,4,0
+21914,35.57814,-82.5868,658,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,62,2457816,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+21914,35.57814,-82.5868,658,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,94,2457848,-9999,11,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2017,106,2457860,4,7,1
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2017,106,2457860,4,7.5,0.5,2,2017,106,2457860,4,7,1
+22332,39.07151,-108.543869,1404,CO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2017,108,2457862,-9999,10,-9999
+22332,39.07151,-108.543869,1404,CO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,86,2457840,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+22589,36.615578,-88.321381,161,KY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,5,2017,60,2457814,2.2135943621179,7,0,5,2017,95,2457849,0,14,0
+22589,36.615578,-88.321381,161,KY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,5,2017,78,2457832,4.7476309881877,6.8,0.2,5,2017,95,2457849,0,14,0
+22936,35.264446,-81.669785,271,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,273,2458027,-9999,7,-9999,1,2017,284,2458038,-9999,22,-9999
+22936,35.264446,-81.669785,271,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,279,2458033,-9999,2,-9999,1,2017,284,2458038,-9999,22,-9999
+23069,38.92625,-77.341675,116,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2017,100,2457854,-9999,10,-9999
+23074,39.208076,-76.658577,51,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,88,2457842,-9999,7,-9999,1,2017,108,2457862,-9999,7,-9999
+23074,39.208076,-76.658577,51,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,94,2457848,-9999,2,-9999,1,2017,108,2457862,-9999,7,-9999
+23828,35.169346,-81.05629,201,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,31,2457785,-9999,6,-9999,1,2017,87,2457841,-9999,7,-9999
+23828,35.169346,-81.05629,201,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,45,2457799,-9999,7,-9999,1,2017,290,2458044,-9999,7,-9999
+24160,39.560318,-76.283745,116,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,58,2457812,-9999,4,-9999,1,2017,118,2457872,-9999,3,-9999
+24160,39.560318,-76.283745,116,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,99,2457853,-9999,2,-9999,1,2017,118,2457872,-9999,3,-9999
+24164,40.665085,-73.963432,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,118,2457872,-9999,17,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+24473,35.502415,-82.526787,663,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,81,2457835,-9999,14,-9999,1,2017,265,2458019,-9999,18,-9999
+24473,35.502415,-82.526787,663,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,109,2457863,-9999,28,-9999,1,2017,265,2458019,-9999,18,-9999
+25168,30.320053,-89.935974,4,LA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,60,2457814,-9999,7,-9999,4,2017,48,2457802,4.4040700872413,7.5,0.5
+25168,30.320053,-89.935974,4,LA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2017,53,2457807,7,7,0,4,2017,48,2457802,4.4040700872413,7.5,0.5
+25257,27.664827,-81.515755,28,FL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,3,2017,77,2457831,10.682280239308,16.666666666667,1.4529663145136
+25257,27.664827,-81.515755,28,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,3,2017,77,2457831,10.682280239308,16.666666666667,1.4529663145136
+25565,43.34066,-83.164528,254,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,95,2457849,-9999,9,-9999,1,2017,144,2457898,-9999,8,-9999
+25565,43.34066,-83.164528,254,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,116,2457870,-9999,6,-9999,1,2017,144,2457898,-9999,8,-9999
+25768,39.150101,-86.522179,239,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,83,2457837,-9999,17,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+25768,39.150101,-86.522179,239,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,89,2457843,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+25829,33.888268,-98.499336,290,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,69,2457823,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+25972,39.974331,-86.093376,239,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2017,109,2457863,-9999,20,-9999
+25985,39.94854,-82.923477,234,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,96,2457850,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+26103,38.814964,-77.050735,13,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,86,2457840,-9999,8,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+27567,35.957191,-83.866592,272,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,62,2457816,-9999,7,-9999,1,2017,69,2457823,-9999,14,-9999
+27567,35.957191,-83.866592,272,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,69,2457823,-9999,7,-9999,1,2017,69,2457823,-9999,14,-9999
+27585,29.033138,-81.299995,14,FL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2017,281,2458035,-9999,9,-9999,2,2017,274,2458028,7,12.5,0.5
+27585,29.033138,-81.299995,14,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2017,281,2458035,-9999,9,-9999,3,2017,288,2458042,16.505891204187,14.333333333333,1.4529663145136
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2018,81,2458200,0,15,0,1,2018,97,2458216,-9999,12,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2018,97,2458216,0,10,0,1,2018,97,2458216,-9999,12,-9999
+1007,39.955685,-74.874466,13,NJ,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,115,2458234,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,51,2458170,-9999,1,-9999,1,2018,99,2458218,-9999,3,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,99,2458218,-9999,3,-9999,1,2018,102,2458221,-9999,7,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,91,2458210,-9999,23,-9999,1,2018,119,2458238,-9999,15,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,112,2458231,-9999,15,-9999,1,2018,119,2458238,-9999,15,-9999
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2018,63,2458182,0,4,0,2,2018,89,2458208,2,3.5,0.5
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2018,66,2458185,0,3,0,2,2018,89,2458208,2,3.5,0.5
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2018,101,2458220,-9999,14,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,74,2458193,-9999,10,-9999,1,2018,101,2458220,-9999,14,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,103,2458222,-9999,15,-9999,1,2018,103,2458222,-9999,14,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,287,2458406,-9999,20,-9999,1,2018,287,2458406,-9999,2,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,129,2458248,-9999,1,-9999,1,2018,134,2458253,-9999,15,-9999
+17468,34.591991,-84.208107,929,GA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2018,103,2458222,0,11,0,2,2018,114,2458233,3.5,7.5,0.5
+17468,34.591991,-84.208107,929,GA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2018,103,2458222,0,11,0,2,2018,114,2458233,3.5,7.5,0.5
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,107,2458226,-9999,5,-9999,1,2018,158,2458277,-9999,5,-9999
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,122,2458241,-9999,6,-9999,1,2018,158,2458277,-9999,5,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,102,2458221,-9999,4,-9999,1,2018,295,2458414,-9999,3,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,26,2458145,-9999,1,-9999,1,2018,341,2458460,-9999,6,-9999
+20249,38.613323,-90.258934,157,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,103,2458222,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+20249,38.613323,-90.258934,157,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,121,2458240,-9999,18,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2018,117,2458236,0,2,0,2,2018,117,2458236,0,3,0
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2018,91,2458210,3,6,0,2,2018,120,2458239,2.5,5,2
+22936,35.264446,-81.669785,271,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2018,50,2458169,0,21,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+23828,35.169346,-81.05629,201,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,58,2458177,-9999,7,-9999,1,2018,306,2458425,-9999,14,-9999
+23828,35.169346,-81.05629,201,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,65,2458184,-9999,7,-9999,1,2018,306,2458425,-9999,18,-9999
+24529,35.163074,-83.360275,614,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,61,2458180,-9999,9,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+25565,43.34066,-83.164528,254,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,127,2458246,-9999,9,-9999,1,2018,143,2458262,-9999,1,-9999
+25565,43.34066,-83.164528,254,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,137,2458256,-9999,10,-9999,1,2018,144,2458263,-9999,13,-9999
+25972,39.974331,-86.093376,239,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,124,2458243,-9999,19,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+26642,38.982613,-94.812531,255,KS,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2018,124,2458243,-9999,7,-9999
+26642,38.982613,-94.812531,255,KS,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,116,2458235,-9999,7,-9999,1,2018,124,2458243,-9999,7,-9999
+27567,35.957191,-83.866592,272,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,56,2458175,-9999,4,-9999,1,2018,103,2458222,-9999,8,-9999
+27567,35.957191,-83.866592,272,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,72,2458191,-9999,9,-9999,1,2018,103,2458222,-9999,8,-9999
+28192,37.802608,-79.422447,326,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2018,296,2458415,0.5,3.5,2.5,2,2018,300,2458419,3.5,4,3
+28192,37.802608,-79.422447,326,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,304,2458423,-9999,1,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+28398,35.273556,-82.705193,648,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,58,2458177,-9999,12,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+28729,40.202297,-77.196671,144,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,6,2018,94,2458213,8.0401768913653,4,1.0645812948448,1,2018,57,2458176,-9999,3,-9999
+28729,40.202297,-77.196671,144,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,111,2458230,-9999,1,-9999,1,2018,111,2458230,-9999,1,-9999
+28763,29.645634,-82.345909,44,FL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2018,61,2458180,-9999,4,-9999
+28763,29.645634,-82.345909,44,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2018,61,2458180,-9999,4,-9999
+28773,29.645353,-82.343742,48,FL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,32,2458151,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+28773,29.645353,-82.343742,48,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,37,2458156,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+30020,39.884789,-75.396133,70,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2018,234,2458353,-9999,23,-9999
+30186,39.691479,-80.104828,358,WV,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2018,131,2458250,-9999,10,-9999
+30186,39.691479,-80.104828,358,WV,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2018,131,2458250,-9999,10,-9999
+32210,35.947197,-83.939865,258,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2018,311,2458430,-9999,6,-9999,1,2018,318,2458437,-9999,28,-9999
+32210,35.947197,-83.939865,258,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2018,311,2458430,-9999,6,-9999,1,2018,318,2458437,-9999,28,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,105,2458589,-9999,9,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,95,2458579,-9999,8,-9999,1,2019,137,2458621,-9999,4,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,81,2458565,-9999,11,-9999,1,2019,137,2458621,-9999,4,-9999
+2623,40.710339,-81.885284,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,98,2458582,-9999,4,-9999,1,2019,132,2458616,-9999,4,-9999
+2623,40.710339,-81.885284,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,121,2458605,-9999,9,-9999,1,2019,132,2458616,-9999,4,-9999
+6701,36.03521,-83.950249,345,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,83,2458567,-9999,15,-9999,1,2019,100,2458584,-9999,4,-9999
+6701,36.03521,-83.950249,345,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,90,2458574,-9999,7,-9999,1,2019,100,2458584,-9999,4,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2019,124,2458608,-9999,15,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,109,2458593,-9999,5,-9999,1,2019,124,2458608,-9999,15,-9999
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2019,69,2458553,0,7,0,2,2019,97,2458581,3.5,5.5,1.5
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2019,69,2458553,0,7,0,2,2019,97,2458581,3.5,5.5,1.5
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,73,2458557,-9999,18,-9999,1,2019,103,2458587,-9999,26,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,78,2458562,-9999,5,-9999,1,2019,103,2458587,-9999,26,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,91,2458575,-9999,13,-9999,1,2019,106,2458590,-9999,7,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,91,2458575,-9999,13,-9999,1,2019,106,2458590,-9999,7,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,113,2458597,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,136,2458620,-9999,16,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,102,2458586,-9999,3,-9999,1,2019,136,2458620,-9999,7,-9999
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,120,2458604,-9999,6,-9999,1,2019,136,2458620,-9999,7,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,241,2458725,-9999,7,-9999,1,2019,241,2458725,-9999,21,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,59,2458543,-9999,13,-9999,1,2019,299,2458783,-9999,5,-9999
+20120,42.366829,-71.257408,53,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,108,2458592,-9999,1,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,107,2458591,-9999,1,-9999,2,2019,110,2458594,2.5,2.5,1.5
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2019,98,2458582,0,5,0,2,2019,110,2458594,2.5,2.5,1.5
+23828,35.169346,-81.05629,201,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,49,2458533,-9999,11,-9999,1,2019,99,2458583,-9999,7,-9999
+23828,35.169346,-81.05629,201,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,78,2458562,-9999,7,-9999,1,2019,99,2458583,-9999,7,-9999
+24164,40.665085,-73.963432,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,106,2458590,-9999,6,-9999,1,2019,127,2458611,-9999,9,-9999
+24164,40.665085,-73.963432,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,122,2458606,-9999,22,-9999,1,2019,127,2458611,-9999,9,-9999
+25330,32.731949,-97.116386,187,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,5,2019,98,2458582,44.59708510654,4.4,1.5684387141358,5,2019,175,2458659,51.358543593058,3.6,0.8124038404636
+25330,32.731949,-97.116386,187,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,5,2019,111,2458595,41.40483063605,6,2.1447610589527,5,2019,135,2458619,44.12323650867,3.4,0.8124038404636
+25565,43.34066,-83.164528,254,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,119,2458603,-9999,8,-9999,1,2019,143,2458627,-9999,13,-9999
+25565,43.34066,-83.164528,254,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,143,2458627,-9999,7,-9999,1,2019,156,2458640,-9999,21,-9999
+25972,39.974331,-86.093376,239,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,111,2458595,-9999,17,-9999,1,2019,111,2458595,-9999,17,-9999
+25972,39.974331,-86.093376,239,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,111,2458595,-9999,17,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+27567,35.957191,-83.866592,272,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,79,2458563,-9999,2,-9999,1,2019,105,2458589,-9999,7,-9999
+27567,35.957191,-83.866592,272,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,79,2458563,-9999,2,-9999,1,2019,105,2458589,-9999,7,-9999
+28192,37.802608,-79.422447,326,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2019,110,2458594,10.5,6.5,5.5,2,2019,90,2458574,18,13,2
+28192,37.802608,-79.422447,326,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2019,99,2458583,0,12,0,2,2019,247,2458731,8.5,16,1
+28483,40.742096,-73.987572,10,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,95,2458579,-9999,4,-9999,1,2019,126,2458610,-9999,2,-9999
+28483,40.742096,-73.987572,10,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,105,2458589,-9999,5,-9999,1,2019,126,2458610,-9999,2,-9999
+28763,29.645634,-82.345909,44,FL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2019,72,2458556,-9999,20,-9999
+28763,29.645634,-82.345909,44,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,43,2458527,-9999,7,-9999,1,2019,72,2458556,-9999,20,-9999
+28773,29.645353,-82.343742,48,FL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2019,72,2458556,-9999,20,-9999
+28773,29.645353,-82.343742,48,FL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,43,2458527,-9999,7,-9999,1,2019,72,2458556,-9999,20,-9999
+30186,39.691479,-80.104828,358,WV,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,113,2458597,-9999,5,-9999,1,2019,113,2458597,-9999,14,-9999
+30186,39.691479,-80.104828,358,WV,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,113,2458597,-9999,5,-9999,1,2019,113,2458597,-9999,14,-9999
+30534,40.227844,-83.036621,285,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2019,124,2458608,2.5,5,0
+30534,40.227844,-83.036621,285,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2019,112,2458596,0,11,0,2,2019,124,2458608,2.5,5,0
+31699,39.871071,-86.161232,237,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2019,101,2458585,0,23.333333333333,4.6666666666667,3,2019,180,2458664,43.383304520416,14.666666666667,7.6883750631139
+31699,39.871071,-86.161232,237,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2019,117,2458601,2,8,1,3,2019,180,2458664,43.383304520416,14.666666666667,7.6883750631139
+31825,41.892685,-87.794022,190,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2019,128,2458612,0,21,0
+31825,41.892685,-87.794022,190,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2019,122,2458606,1.5,5.5,2.5,2,2019,139,2458623,10.5,15,6
+32033,35.256683,-82.702286,641,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,77,2458561,-9999,18,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+32117,37.802132,-79.422424,325,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,123,2458607,-9999,4,-9999,1,2019,108,2458592,-9999,11,-9999
+32117,37.802132,-79.422424,325,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,273,2458757,-9999,3,-9999,1,2019,273,2458757,-9999,18,-9999
+32210,35.947197,-83.939865,258,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,45,2458529,-9999,13,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+32443,39.90163,-86.175911,240,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,101,2458585,-9999,3,-9999,1,2019,146,2458630,-9999,7,-9999
+32443,39.90163,-86.175911,240,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,114,2458598,-9999,13,-9999,1,2019,137,2458621,-9999,9,-9999
+32607,39.936066,-86.118439,235,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,98,2458582,-9999,15,-9999,1,2019,123,2458607,-9999,9,-9999
+32607,39.936066,-86.118439,235,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,120,2458604,-9999,18,-9999,1,2019,123,2458607,-9999,9,-9999
+32877,38.595692,-85.955193,273,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,84,2458568,-9999,7,-9999,1,2019,266,2458750,-9999,7,-9999
+32877,38.595692,-85.955193,273,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,105,2458589,-9999,7,-9999,1,2019,266,2458750,-9999,7,-9999
+32893,40.811333,-82.023102,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,105,2458589,-9999,6,-9999,1,2019,123,2458607,-9999,15,-9999
+32893,40.811333,-82.023102,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,118,2458602,-9999,7,-9999,1,2019,123,2458607,-9999,15,-9999
+32985,39.009678,-77.095146,65,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,69,2458553,-9999,7,-9999,1,2019,111,2458595,-9999,7,-9999
+32985,39.009678,-77.095146,65,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,104,2458588,-9999,7,-9999,1,2019,111,2458595,-9999,7,-9999
+33004,37.135323,-80.566528,541,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2019,65,2458549,0,8,0,1,2019,78,2458562,-9999,9,-9999
+33004,37.135323,-80.566528,541,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,120,2458604,-9999,21,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+33012,42.011364,-93.638145,276,IA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,123,2458607,-9999,15,-9999,1,2019,149,2458633,-9999,5,-9999
+33012,42.011364,-93.638145,276,IA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,123,2458607,-9999,15,-9999,1,2019,149,2458633,-9999,5,-9999
+33222,40.142567,-82.866226,281,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,106,2458590,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+33222,40.142567,-82.866226,281,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,106,2458590,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+33388,41.087704,-85.135979,229,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,125,2458609,-9999,28,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+33486,40.269711,-83.067383,268,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2019,104,2458588,-9999,2,-9999,1,2019,108,2458592,-9999,1,-9999
+35096,30.849813,-83.289307,64,GA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,249,2458733,-9999,9,-9999,1,2019,249,2458733,-9999,5,-9999
+35931,35.348309,-80.82251,253,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2019,329,2458813,-9999,28,-9999,1,2019,329,2458813,-9999,11,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,90,2458939,-9999,20,-9999,1,2020,132,2458981,-9999,5,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,101,2458950,-9999,3,-9999,1,2020,132,2458981,-9999,5,-9999
+2623,40.710339,-81.885284,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,137,2458986,-9999,5,-9999
+2623,40.710339,-81.885284,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,124,2458973,-9999,3,-9999,1,2020,137,2458986,-9999,5,-9999
+6701,36.03521,-83.950249,345,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,79,2458928,-9999,12,-9999,1,2020,94,2458943,-9999,8,-9999
+6701,36.03521,-83.950249,345,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,89,2458938,-9999,10,-9999,1,2020,94,2458943,-9999,8,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,80,2458929,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,102,2458951,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,71,2458920,-9999,14,-9999,1,2020,97,2458946,-9999,28,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,78,2458927,-9999,7,-9999,1,2020,97,2458946,-9999,28,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,90,2458939,-9999,19,-9999,1,2020,90,2458939,-9999,18,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,90,2458939,-9999,19,-9999,1,2020,90,2458939,-9999,18,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,123,2458972,-9999,10,-9999,1,2020,151,2459000,-9999,5,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,140,2458989,-9999,7,-9999,1,2020,151,2459000,-9999,5,-9999
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2020,68,2458917,3.5,9,2,0,-9999,-9999,-9999,-9999,-9999,-9999
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2020,90,2458939,0,5,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+22589,36.615578,-88.321381,161,KY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,4,2020,94,2458943,0,8,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+23309,39.950382,-86.264549,255,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,135,2458984,-9999,7,-9999
+23309,39.950382,-86.264549,255,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,113,2458962,-9999,7,-9999,1,2020,135,2458984,-9999,7,-9999
+23828,35.169346,-81.05629,201,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,49,2458898,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+23828,35.169346,-81.05629,201,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,70,2458919,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+25330,32.731949,-97.116386,187,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2020,67,2458916,2.5,5.5,0.5,2,2020,67,2458916,2.5,1,0
+25330,32.731949,-97.116386,187,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,62,2458911,-9999,5,-9999,1,2020,64,2458913,-9999,1,-9999
+28483,40.742096,-73.987572,10,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,50,2458899,-9999,1,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+31258,38.888065,-77.023819,7,DC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,65,2458914,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+31258,38.888065,-77.023819,7,DC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,95,2458944,-9999,30,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+31261,38.891266,-77.026062,2,DC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,95,2458944,-9999,30,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+31261,38.891266,-77.026062,2,DC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,95,2458944,-9999,30,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+31699,39.871071,-86.161232,237,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2020,75,2458924,2.6666666666667,18,5,1,2020,135,2458984,-9999,12,-9999
+31699,39.871071,-86.161232,237,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2020,114,2458963,10.333333333333,10,5,1,2020,135,2458984,-9999,12,-9999
+31825,41.892685,-87.794022,190,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2020,93,2458942,0,10,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+31825,41.892685,-87.794022,190,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,145,2458994,-9999,27,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+32443,39.90163,-86.175911,240,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,85,2458934,-9999,7,-9999,1,2020,134,2458983,-9999,8,-9999
+32443,39.90163,-86.175911,240,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,103,2458952,-9999,4,-9999,1,2020,134,2458983,-9999,8,-9999
+32607,39.936066,-86.118439,235,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,117,2458966,-9999,13,-9999,1,2020,131,2458980,-9999,14,-9999
+32607,39.936066,-86.118439,235,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,117,2458966,-9999,13,-9999,1,2020,131,2458980,-9999,14,-9999
+32877,38.595692,-85.955193,273,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,76,2458925,-9999,7,-9999,1,2020,300,2459149,-9999,7,-9999
+32877,38.595692,-85.955193,273,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,97,2458946,-9999,7,-9999,1,2020,293,2459142,-9999,7,-9999
+32893,40.811333,-82.023102,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,91,2458940,-9999,12,-9999,1,2020,144,2458993,-9999,15,-9999
+32893,40.811333,-82.023102,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,124,2458973,-9999,5,-9999,1,2020,144,2458993,-9999,15,-9999
+32985,39.009678,-77.095146,65,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,72,2458921,-9999,8,-9999,1,2020,124,2458973,-9999,16,-9999
+32985,39.009678,-77.095146,65,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,93,2458942,-9999,6,-9999,1,2020,116,2458965,-9999,8,-9999
+33012,42.011364,-93.638145,276,IA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,120,2458969,-9999,7,-9999,1,2020,140,2458989,-9999,7,-9999
+33012,42.011364,-93.638145,276,IA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,120,2458969,-9999,7,-9999,1,2020,140,2458989,-9999,7,-9999
+34665,38.999882,-86.59021,281,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,109,2458958,-9999,7,-9999,1,2020,109,2458958,-9999,4,-9999
+34665,38.999882,-86.59021,281,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,100,2458949,-9999,5,-9999,1,2020,120,2458969,-9999,7,-9999
+34771,39.517929,-84.731422,236,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,128,2458977,-9999,10,-9999,2,2020,128,2458977,0,9,0
+34771,39.517929,-84.731422,236,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,128,2458977,-9999,10,-9999,2,2020,123,2458972,5,9.5,0.5
+34855,39.027935,-76.797836,35,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,257,2459106,-9999,7,-9999,1,2020,285,2459134,-9999,28,-9999
+35126,39.585384,-86.182289,220,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2020,90,2458939,3.5,12,5,2,2020,104,2458953,11,15,6
+35126,39.585384,-86.182289,220,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,102,2458951,-9999,9,-9999,1,2020,115,2458964,-9999,21,-9999
+36364,37.545116,-77.454666,56,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,66,2458915,-9999,3,-9999,1,2020,59,2458908,-9999,4,-9999
+36436,39.027634,-76.796936,35,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,75,2458924,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+36439,39.026203,-76.79895,39,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,75,2458924,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+36747,40.38504,-74.80201,66,NJ,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,99,2458948,-9999,7,-9999,1,2020,133,2458982,-9999,12,-9999
+36747,40.38504,-74.80201,66,NJ,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,133,2458982,-9999,16,-9999,1,2020,133,2458982,-9999,12,-9999
+36831,36.470451,-94.212837,359,AR,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2020,83,2458932,-9999,1,-9999,1,2020,83,2458932,-9999,2,-9999
+36831,36.470451,-94.212837,359,AR,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,83,2458932,-9999,1,-9999,1,2020,83,2458932,-9999,2,-9999
+37649,39.077477,-77.12468,114,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,98,2458947,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+37679,40.191502,-76.982597,164,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2020,103,2458952,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+37680,36.313011,-80.846756,375,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,104,2458953,-9999,7,-9999
+37680,36.313011,-80.846756,375,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,104,2458953,-9999,7,-9999
+37696,36.514164,-79.701096,182,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,99,2458948,-9999,10,-9999
+37696,36.514164,-79.701096,182,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,97,2458946,-9999,2,-9999
+38740,41.814449,-88.070885,204,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,133,2458982,-9999,7,-9999
+38740,41.814449,-88.070885,204,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,133,2458982,-9999,7,-9999
+38963,40.443729,-86.904205,182,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,136,2458985,-9999,7,-9999
+38963,40.443729,-86.904205,182,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,136,2458985,-9999,7,-9999
+39037,47.482979,-122.183258,75,WA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,122,2458971,-9999,7,-9999
+39037,47.482979,-122.183258,75,WA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,122,2458971,-9999,7,-9999
+41021,43.009369,-78.800385,174,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2020,271,2459120,0,7,0
+41721,38.107502,-84.533508,296,KY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2020,268,2459117,-9999,9,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,106,2459321,-9999,3,-9999,1,2021,129,2459344,-9999,5,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,117,2459332,-9999,11,-9999,1,2021,129,2459344,-9999,5,-9999
+2623,40.710339,-81.885284,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,94,2459309,-9999,5,-9999,1,2021,133,2459348,-9999,7,-9999
+2623,40.710339,-81.885284,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,112,2459327,-9999,5,-9999,1,2021,128,2459343,-9999,12,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,106,2459321,-9999,2,-9999,1,2021,111,2459326,-9999,3,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,106,2459321,-9999,2,-9999,1,2021,111,2459326,-9999,3,-9999
+6701,36.03521,-83.950249,345,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,92,2459307,-9999,22,-9999
+6701,36.03521,-83.950249,345,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,92,2459307,-9999,14,-9999,1,2021,92,2459307,-9999,22,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,88,2459303,-9999,14,-9999,1,2021,131,2459346,-9999,29,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,94,2459309,-9999,6,-9999,1,2021,131,2459346,-9999,29,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,79,2459294,-9999,12,-9999,1,2021,102,2459317,-9999,8,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,89,2459304,-9999,7,-9999,1,2021,102,2459317,-9999,8,-9999
+9343,35.642799,-83.695915,423,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,89,2459304,-9999,12,-9999,1,2021,89,2459304,-9999,16,-9999
+10585,41.433689,-81.693153,220,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,126,2459341,-9999,7,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,140,2459355,-9999,16,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,121,2459336,-9999,4,-9999,1,2021,140,2459355,-9999,16,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,97,2459312,-9999,7,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,97,2459312,-9999,27,-9999,1,2021,97,2459312,-9999,7,-9999
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2021,127,2459342,9,8,3,2,2021,131,2459346,5.5,10.5,5.5
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2021,131,2459346,5.5,9,2,2,2021,131,2459346,5.5,8,3
+23309,39.950382,-86.264549,255,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,83,2459298,-9999,6,-9999,1,2021,117,2459332,-9999,23,-9999
+23309,39.950382,-86.264549,255,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,105,2459320,-9999,7,-9999,1,2021,117,2459332,-9999,23,-9999
+23828,35.169346,-81.05629,201,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,62,2459277,-9999,7,-9999,1,2021,97,2459312,-9999,7,-9999
+23828,35.169346,-81.05629,201,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,83,2459298,-9999,7,-9999,1,2021,97,2459312,-9999,7,-9999
+25330,32.731949,-97.116386,187,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,288,2459503,-9999,1,-9999,1,2021,288,2459503,-9999,6,-9999
+25424,42.286526,-72.653793,40,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,86,2459301,-9999,5,-9999,1,2021,254,2459469,-9999,8,-9999
+25424,42.286526,-72.653793,40,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,116,2459331,-9999,3,-9999,1,2021,140,2459355,-9999,3,-9999
+31699,39.871071,-86.161232,237,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2021,84,2459299,0,14,0,2,2021,133,2459348,0,6,0
+31699,39.871071,-86.161232,237,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2021,100,2459315,2,3,1,2,2021,133,2459348,0,6,0
+32398,41.20623,-86.530045,218,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,83,2459298,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+32398,41.20623,-86.530045,218,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,121,2459336,-9999,8,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+32877,38.595692,-85.955193,273,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,242,2459457,-9999,7,-9999,1,2021,277,2459492,-9999,7,-9999
+32877,38.595692,-85.955193,273,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,102,2459317,-9999,5,-9999,1,2021,277,2459492,-9999,7,-9999
+32893,40.811333,-82.023102,329,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,101,2459316,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+32985,39.009678,-77.095146,65,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,122,2459337,-9999,7,-9999
+32985,39.009678,-77.095146,65,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,100,2459315,-9999,5,-9999,1,2021,122,2459337,-9999,7,-9999
+33012,42.011364,-93.638145,276,IA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,97,2459312,-9999,7,-9999,1,2021,130,2459345,-9999,11,-9999
+33012,42.011364,-93.638145,276,IA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,123,2459338,-9999,11,-9999,1,2021,130,2459345,-9999,11,-9999
+34241,39.037189,-77.496223,78,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,95,2459310,-9999,12,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+34665,38.999882,-86.59021,281,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,83,2459298,-9999,17,-9999,1,2021,119,2459334,-9999,4,-9999
+34665,38.999882,-86.59021,281,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,98,2459313,-9999,2,-9999,1,2021,119,2459334,-9999,4,-9999
+35126,39.585384,-86.182289,220,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2021,83,2459298,0,11,0,2,2021,108,2459323,0,22,0
+35126,39.585384,-86.182289,220,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2021,102,2459317,0,5,0,2,2021,108,2459323,0,22,0
+36119,38.938217,-76.49659,15,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,107,2459322,-9999,26,-9999
+36436,39.027634,-76.796936,35,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,88,2459303,-9999,7,-9999,1,2021,129,2459344,-9999,7,-9999
+36436,39.027634,-76.796936,35,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,100,2459315,-9999,9,-9999,1,2021,129,2459344,-9999,7,-9999
+41802,39.910755,-86.424187,284,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,103,2459318,-9999,7,-9999,1,2021,117,2459332,-9999,7,-9999
+41802,39.910755,-86.424187,284,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,103,2459318,-9999,7,-9999,1,2021,117,2459332,-9999,7,-9999
+41903,34.287571,-86.849609,306,AL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,83,2459298,-9999,11,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+42007,39.789318,-84.890862,294,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,90,2459305,-9999,16,-9999,1,2021,123,2459338,-9999,7,-9999
+42007,39.789318,-84.890862,294,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,108,2459323,-9999,6,-9999,1,2021,123,2459338,-9999,7,-9999
+42060,39.627743,-86.380142,218,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,88,2459303,-9999,12,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+42060,39.627743,-86.380142,218,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,88,2459303,-9999,12,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+42186,39.994469,-86.344513,281,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,91,2459306,-9999,9,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+42186,39.994469,-86.344513,281,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,108,2459323,-9999,9,-9999,1,2021,111,2459326,-9999,4,-9999
+42343,38.771923,-85.282578,151,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,89,2459304,-9999,7,-9999,1,2021,110,2459325,-9999,14,-9999
+42343,38.771923,-85.282578,151,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,103,2459318,-9999,14,-9999,1,2021,110,2459325,-9999,14,-9999
+42612,37.653145,-92.083344,256,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,72,2459287,-9999,6,-9999,1,2021,108,2459323,-9999,7,-9999
+42612,37.653145,-92.083344,256,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,99,2459314,-9999,6,-9999,1,2021,108,2459323,-9999,7,-9999
+42726,35.665653,-82.533623,745,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,98,2459313,-9999,18,-9999
+42726,35.665653,-82.533623,745,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,98,2459313,-9999,9,-9999,1,2021,98,2459313,-9999,18,-9999
+42776,41.084698,-85.163902,240,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,85,2459300,-9999,9,-9999,1,2021,130,2459345,-9999,10,-9999
+42776,41.084698,-85.163902,240,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,102,2459317,-9999,3,-9999,1,2021,130,2459345,-9999,10,-9999
+42815,39.368813,-87.367851,162,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,77,2459292,-9999,8,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+42815,39.368813,-87.367851,162,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,92,2459307,-9999,10,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+43106,39.742039,-89.444275,176,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,97,2459312,-9999,3,-9999,1,2021,114,2459329,-9999,10,-9999
+43106,39.742039,-89.444275,176,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,97,2459312,-9999,3,-9999,1,2021,114,2459329,-9999,10,-9999
+43334,31.856649,-92.286476,27,LA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,75,2459290,-9999,11,-9999
+43334,31.856649,-92.286476,27,LA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,75,2459290,-9999,11,-9999
+43451,40.951477,-73.750496,37,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,89,2459304,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+43781,37.82851,-79.857574,465,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,115,2459330,-9999,7,-9999
+43781,37.82851,-79.857574,465,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,97,2459312,-9999,5,-9999,1,2021,115,2459330,-9999,7,-9999
+43800,37.744896,-96.249573,321,KS,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,100,2459315,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+43801,37.746494,-96.249763,313,KS,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,100,2459315,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+43881,38.74696,-77.577141,80,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,117,2459332,-9999,20,-9999
+43881,38.74696,-77.577141,80,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,117,2459332,-9999,20,-9999
+44146,40.101246,-76.323044,112,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2021,125,2459340,0.33333333333333,2,1,3,2021,126,2459341,0.8819171036882,2.3333333333333,1.3333333333333
+44146,40.101246,-76.323044,112,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,3,2021,127,2459342,0.66666666666667,3.6666666666667,1.3333333333333
+44151,39.099831,-76.95166,134,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2021,261,2459476,-9999,27,-9999,2,2021,196,2459411,77.5,12,4
+44151,39.099831,-76.95166,134,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,118,2459333,-9999,16,-9999
+44153,41.986366,-75.829926,366,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,146,2459361,-9999,7,-9999
+44153,41.986366,-75.829926,366,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,125,2459340,-9999,3,-9999,1,2021,146,2459361,-9999,7,-9999
+44155,38.767632,-77.215584,65,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,114,2459329,-9999,2,-9999
+44155,38.767632,-77.215584,65,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,114,2459329,-9999,2,-9999
+44165,40.318806,-75.87133,106,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,125,2459340,-9999,7,-9999
+44165,40.318806,-75.87133,106,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,125,2459340,-9999,7,-9999
+44168,40.517921,-75.364311,182,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,131,2459346,-9999,7,-9999
+44168,40.517921,-75.364311,182,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,119,2459334,-9999,8,-9999,1,2021,131,2459346,-9999,7,-9999
+44174,40.328682,-76.730431,154,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,4,2021,127,2459342,3,8.5,1.5
+44174,40.328682,-76.730431,154,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,4,2021,127,2459342,3,8.5,1.5
+44196,40.780937,-77.906799,383,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,134,2459349,-9999,23,-9999
+44196,40.780937,-77.906799,383,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,120,2459335,-9999,7,-9999,1,2021,134,2459349,-9999,23,-9999
+44200,40.651798,-75.454597,121,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,132,2459347,-9999,10,-9999
+44200,40.651798,-75.454597,121,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,132,2459347,-9999,10,-9999
+44201,40.280037,-76.999435,144,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2021,125,2459340,1.5,7.5,4.5
+44201,40.280037,-76.999435,144,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2021,126,2459341,0,12,0
+44214,42.098446,-80.050003,299,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,7,2021,140,2459355,0,9,0
+44214,42.098446,-80.050003,299,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,7,2021,140,2459355,0,9,0
+44223,41.485497,-78.55497,257,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2021,125,2459340,-9999,8,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+44231,39.994823,-76.525269,174,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,117,2459332,-9999,9,-9999
+44231,39.994823,-76.525269,174,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,117,2459332,-9999,9,-9999
+44260,36.7384,-93.128662,281,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,110,2459325,-9999,1,-9999
+44260,36.7384,-93.128662,281,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,110,2459325,-9999,1,-9999
+44338,40.107903,-77.03672,177,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,135,2459350,-9999,8,-9999
+44338,40.107903,-77.03672,177,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2021,135,2459350,-9999,8,-9999
+859,40.059612,-83.009933,255,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,111,2459691,-9999,10,-9999
+859,40.059612,-83.009933,255,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,111,2459691,-9999,10,-9999
+1444,42.722549,-78.84343,239,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,138,2459718,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1444,42.722549,-78.84343,239,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,138,2459718,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,105,2459685,-9999,3,-9999,1,2022,125,2459705,-9999,7,-9999
+1624,40.75375,-73.885437,19,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,107,2459687,-9999,2,-9999,1,2022,125,2459705,-9999,7,-9999
+2772,36.440838,-84.323586,383,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,104,2459684,-9999,5,-9999,1,2022,104,2459684,-9999,8,-9999
+6481,42.456135,-72.344215,253,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,105,2459685,-9999,7,-9999,1,2022,137,2459717,-9999,6,-9999
+6481,42.456135,-72.344215,253,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,133,2459713,-9999,4,-9999,1,2022,137,2459717,-9999,6,-9999
+6701,36.03521,-83.950249,345,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,80,2459660,-9999,20,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,93,2459673,-9999,20,-9999,1,2022,108,2459688,-9999,4,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,63,2459643,-9999,4,-9999,1,2022,84,2459664,-9999,5,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,74,2459654,-9999,11,-9999,1,2022,81,2459661,-9999,3,-9999
+10585,41.433689,-81.693153,220,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,83,2459663,-9999,7,-9999,1,2022,132,2459712,-9999,7,-9999
+10585,41.433689,-81.693153,220,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,118,2459698,-9999,7,-9999,1,2022,132,2459712,-9999,7,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,97,2459677,-9999,7,-9999,1,2022,136,2459716,-9999,7,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,129,2459709,-9999,9,-9999,1,2022,136,2459716,-9999,7,-9999
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,81,2459661,-9999,5,-9999,1,2022,134,2459714,-9999,4,-9999
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,111,2459691,-9999,1,-9999,1,2022,134,2459714,-9999,4,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,299,2459879,-9999,20,-9999,1,2022,85,2459665,-9999,11,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,85,2459665,-9999,11,-9999
+20120,42.366829,-71.257408,53,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,115,2459695,-9999,3,-9999,1,2022,117,2459697,-9999,2,-9999
+21761,36.758217,-91.880905,312,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,89,2459669,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2022,110,2459690,0,7,0
+22017,35.497227,-82.608856,673,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,100,2459680,3.5,7,0,2,2022,110,2459690,0,7,0
+22580,42.077522,-72.558563,52,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,79,2459659,-9999,6,-9999,1,2022,135,2459715,-9999,6,-9999
+22580,42.077522,-72.558563,52,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,125,2459705,-9999,4,-9999,1,2022,135,2459715,-9999,6,-9999
+23309,39.950382,-86.264549,255,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,96,2459676,-9999,7,-9999,1,2022,110,2459690,-9999,28,-9999
+23738,35.664925,-105.927788,2182,NM,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,121,2459701,-9999,14,-9999,1,2022,135,2459715,-9999,25,-9999
+23738,35.664925,-105.927788,2182,NM,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,121,2459701,-9999,14,-9999,1,2022,135,2459715,-9999,25,-9999
+25330,32.731949,-97.116386,187,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,68,2459648,-9999,5,-9999,1,2022,68,2459648,-9999,1,-9999
+25330,32.731949,-97.116386,187,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,76,2459656,7.5,9.5,4.5,1,2022,82,2459662,-9999,1,-9999
+25424,42.286526,-72.653793,40,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,86,2459666,-9999,4,-9999,1,2022,140,2459720,-9999,3,-9999
+25424,42.286526,-72.653793,40,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,124,2459704,-9999,4,-9999,1,2022,140,2459720,-9999,3,-9999
+26119,40.751404,-111.863243,1320,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,87,2459667,-9999,6,-9999,1,2022,77,2459657,-9999,4,-9999
+26119,40.751404,-111.863243,1320,UT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,109,2459689,-9999,11,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+26897,40.128613,-75.340515,39,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,136,2459716,-9999,2,-9999
+26897,40.128613,-75.340515,39,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,92,2459672,-9999,1,-9999,1,2022,136,2459716,-9999,2,-9999
+29012,38.953266,-75.934799,6,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,70,2459650,-9999,14,-9999,1,2022,112,2459692,-9999,14,-9999
+29012,38.953266,-75.934799,6,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,112,2459692,-9999,14,-9999,1,2022,112,2459692,-9999,14,-9999
+30085,38.957569,-75.93177,12,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,84,2459664,-9999,14,-9999,1,2022,126,2459706,-9999,14,-9999
+30085,38.957569,-75.93177,12,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,98,2459678,-9999,14,-9999,1,2022,112,2459692,-9999,14,-9999
+31082,38.776043,-76.069687,9,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,81,2459661,-9999,6,-9999,1,2022,115,2459695,-9999,21,-9999
+31082,38.776043,-76.069687,9,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,97,2459677,-9999,8,-9999,1,2022,115,2459695,-9999,21,-9999
+31699,39.871071,-86.161232,237,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2022,80,2459660,2.0275875100994,7.3333333333333,3.8441875315569,3,2022,130,2459710,0,10,0
+31699,39.871071,-86.161232,237,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,115,2459695,4.2557151116012,8.3333333333333,2.6666666666667,3,2022,130,2459710,0,10,0
+32789,40.73082,-73.99733,5,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,82,2459662,-9999,18,-9999,1,2022,129,2459709,-9999,2,-9999
+32789,40.73082,-73.99733,5,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,109,2459689,-9999,8,-9999,1,2022,136,2459716,-9999,4,-9999
+32877,38.595692,-85.955193,273,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,59,2459639,-9999,7,-9999,1,2022,122,2459702,-9999,8,-9999
+32877,38.595692,-85.955193,273,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,108,2459688,-9999,7,-9999,1,2022,122,2459702,-9999,8,-9999
+32985,39.009678,-77.095146,65,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,93,2459673,-9999,15,-9999,1,2022,121,2459701,-9999,7,-9999
+32985,39.009678,-77.095146,65,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,93,2459673,-9999,15,-9999,1,2022,121,2459701,-9999,7,-9999
+33012,42.011364,-93.638145,276,IA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,139,2459719,-9999,7,-9999
+33012,42.011364,-93.638145,276,IA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,131,2459711,-9999,5,-9999,1,2022,139,2459719,-9999,7,-9999
+34665,38.999882,-86.59021,281,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,89,2459669,-9999,10,-9999,1,2022,117,2459697,-9999,8,-9999
+34665,38.999882,-86.59021,281,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,104,2459684,-9999,3,-9999,1,2022,117,2459697,-9999,8,-9999
+35126,39.585384,-86.182289,220,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2022,101,2459681,0,17,0,2,2022,113,2459693,0,27,0
+35126,39.585384,-86.182289,220,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,113,2459693,0,12,0,2,2022,113,2459693,0,27,0
+36119,38.938217,-76.49659,15,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2022,78,2459658,0,17,0,2,2022,121,2459701,3,8,2
+36119,38.938217,-76.49659,15,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,108,2459688,4.5,9.5,0.5,2,2022,121,2459701,3,8,2
+36436,39.027634,-76.796936,35,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,99,2459679,-9999,21,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+37196,41.814323,-88.070099,204,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,4,2022,129,2459709,0,8.25,0.25,4,2022,138,2459718,0.25,8.25,0.25
+37196,41.814323,-88.070099,204,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,4,2022,129,2459709,0,8.25,0.25,4,2022,138,2459718,0.25,8.25,0.25
+37197,41.813972,-88.068817,207,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2022,109,2459689,0,4,0,3,2022,134,2459714,0,3,0
+37197,41.813972,-88.068817,207,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,119,2459699,2.6666666666667,4.6666666666667,1.6666666666667,3,2022,134,2459714,0,3,0
+38379,38.078102,-85.610085,184,KY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2022,112,2459692,3.5,6.5,0.5
+38379,38.078102,-85.610085,184,KY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,104,2459684,4,8,0,2,2022,112,2459692,3.5,6.5,0.5
+38489,39.065994,-76.504898,4,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,99,2459679,-9999,15,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+41802,39.910755,-86.424187,284,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2022,90,2459670,7.5,8,1,2,2022,124,2459704,0,7,0
+41802,39.910755,-86.424187,284,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,121,2459701,3,7.5,1.5,2,2022,124,2459704,0,7,0
+42007,39.789318,-84.890862,294,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,79,2459659,-9999,14,-9999,1,2022,128,2459708,-9999,7,-9999
+42007,39.789318,-84.890862,294,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,121,2459701,-9999,7,-9999,1,2022,128,2459708,-9999,7,-9999
+42060,39.627743,-86.380142,218,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,84,2459664,-9999,5,-9999,1,2022,123,2459703,-9999,11,-9999
+42060,39.627743,-86.380142,218,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,96,2459676,-9999,9,-9999,1,2022,123,2459703,-9999,11,-9999
+42612,37.653145,-92.083344,256,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,84,2459664,-9999,11,-9999,1,2022,114,2459694,-9999,14,-9999
+42612,37.653145,-92.083344,256,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,100,2459680,-9999,9,-9999,1,2022,128,2459708,-9999,6,-9999
+42776,41.084698,-85.163902,240,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,114,2459694,-9999,21,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+43554,35.729401,-78.813835,134,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,100,2459680,-9999,7,-9999
+43554,35.729401,-78.813835,134,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,71,2459651,-9999,4,-9999,1,2022,100,2459680,-9999,7,-9999
+43881,38.74696,-77.577141,80,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,118,2459698,-9999,13,-9999
+43881,38.74696,-77.577141,80,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,118,2459698,-9999,13,-9999
+44146,40.101246,-76.323044,112,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2022,91,2459671,2,10,2,6,2022,128,2459708,0,6,0
+44146,40.101246,-76.323044,112,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,121,2459701,0,28,0,6,2022,131,2459711,1.3416407864999,6,0
+44151,39.099831,-76.95166,134,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,107,2459687,3.3333333333333,12.666666666667,2.6666666666667,0,-9999,-9999,-9999,-9999,-9999,-9999
+44155,38.767632,-77.215584,65,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,65,2459645,-9999,1,-9999,1,2022,122,2459702,-9999,2,-9999
+44159,40.546528,-75.083557,108,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,96,2459676,-9999,9,-9999,1,2022,349,2459929,-9999,15,-9999
+44159,40.546528,-75.083557,108,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,122,2459702,-9999,6,-9999,1,2022,122,2459702,-9999,7,-9999
+44165,40.318806,-75.87133,106,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,80,2459660,-9999,19,-9999,1,2022,120,2459700,-9999,12,-9999
+44165,40.318806,-75.87133,106,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,110,2459690,-9999,9,-9999,1,2022,120,2459700,-9999,12,-9999
+44166,39.650627,-79.988327,287,WV,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,3,2022,120,2459700,0,7,0
+44166,39.650627,-79.988327,287,WV,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,105,2459685,0,4,0,3,2022,120,2459700,0,7,0
+44174,40.328682,-76.730431,154,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,4,2022,84,2459664,0,10,0,4,2022,128,2459708,1.7320508075689,6.5,0.28867513459481
+44174,40.328682,-76.730431,154,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,4,2022,113,2459693,1.4433756729741,5,0,4,2022,130,2459710,1.5,6.75,0.25
+44196,40.780937,-77.906799,383,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,123,2459703,-9999,29,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+44196,40.780937,-77.906799,383,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,123,2459703,-9999,29,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+44200,40.651798,-75.454597,121,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,128,2459708,-9999,21,-9999
+44200,40.651798,-75.454597,121,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,112,2459692,-9999,6,-9999,1,2022,128,2459708,-9999,21,-9999
+44214,42.098446,-80.050003,299,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,6,2022,83,2459663,0,8,0,6,2022,139,2459719,0,12,0
+44214,42.098446,-80.050003,299,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,6,2022,132,2459712,0,5,0,6,2022,139,2459719,0,12,0
+44231,39.994823,-76.525269,174,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,122,2459702,-9999,17,-9999
+44231,39.994823,-76.525269,174,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,105,2459685,-9999,9,-9999,1,2022,122,2459702,-9999,17,-9999
+44260,36.7384,-93.128662,281,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,87,2459667,-9999,1,-9999,1,2022,115,2459695,-9999,5,-9999
+44260,36.7384,-93.128662,281,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,111,2459691,-9999,7,-9999,1,2022,120,2459700,-9999,6,-9999
+44338,40.107903,-77.03672,177,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2022,88,2459668,3,4.5,2.5,2,2022,127,2459707,0,15,0
+44338,40.107903,-77.03672,177,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,105,2459685,-9999,3,-9999,1,2022,127,2459707,-9999,15,-9999
+44581,38.347412,-75.605858,6,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2022,62,2459642,4.0414518843274,9.3333333333333,2.3333333333333,3,2022,113,2459693,2.3333333333333,7,0
+44581,38.347412,-75.605858,6,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,95,2459675,2.3333333333333,9.3333333333333,2.3333333333333,3,2022,111,2459691,0,7,0
+44683,38.343811,-75.60585,10,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2022,70,2459650,0,7,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+44683,38.343811,-75.60585,10,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,95,2459675,3.5,10.5,3.5,1,2022,119,2459699,-9999,7,-9999
+44793,38.836849,-77.598541,104,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,81,2459661,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+44793,38.836849,-77.598541,104,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,98,2459678,-9999,17,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+44870,40.286655,-79.398224,313,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,102,2459682,-9999,27,-9999,1,2022,131,2459711,-9999,8,-9999
+44870,40.286655,-79.398224,313,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,115,2459695,-9999,13,-9999,1,2022,131,2459711,-9999,8,-9999
+44981,35.796909,-78.688995,138,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,84,2459664,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46160,42.027805,-86.533646,188,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,120,2459700,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46160,42.027805,-86.533646,188,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,136,2459716,-9999,9,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46198,36.062092,-95.977142,189,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,91,2459671,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46202,35.16766,-81.05687,197,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2022,54,2459634,6.6666666666667,7,0,3,2022,93,2459673,2.3333333333333,7,0
+46202,35.16766,-81.05687,197,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,71,2459651,2,6.3333333333333,0.33333333333333,3,2022,93,2459673,2.3333333333333,7,0
+46260,38.93716,-76.994583,38,DC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,64,2459644,-9999,27,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46260,38.93716,-76.994583,38,DC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,95,2459675,-9999,22,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46309,39.465916,-77.791161,125,WV,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,77,2459657,-9999,13,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46315,38.656681,-90.320282,178,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,97,2459677,-9999,13,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46318,41.871277,-87.798943,187,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,111,2459691,-9999,12,-9999,1,2022,130,2459710,-9999,22,-9999
+46318,41.871277,-87.798943,187,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,130,2459710,-9999,16,-9999,1,2022,130,2459710,-9999,22,-9999
+46319,42.41663,-71.09655,4,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2022,60,2459640,0,25,0,3,2022,139,2459719,0,13,0
+46319,42.41663,-71.09655,4,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,116,2459696,0,3,0,3,2022,139,2459719,0,13,0
+46320,40.869499,-79.887299,356,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,3,2022,132,2459712,0,7,0
+46320,40.869499,-79.887299,356,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,3,2022,132,2459712,0,7,0
+46322,41.665699,-83.674103,192,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2022,98,2459678,1.6666666666667,3,1,3,2022,138,2459718,0,3,0
+46322,41.665699,-83.674103,192,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,125,2459705,0.66666666666667,2,0,3,2022,138,2459718,0,3,0
+46327,38.884254,-77.142738,85,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,77,2459657,-9999,13,-9999,1,2022,109,2459689,-9999,11,-9999
+46327,38.884254,-77.142738,85,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,90,2459670,-9999,9,-9999,1,2022,109,2459689,-9999,11,-9999
+46328,40.283012,-79.47876,417,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,115,2459695,-9999,12,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46334,40.201126,-75.410004,66,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,101,2459681,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46334,40.201126,-75.410004,66,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,106,2459686,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46335,30.383759,-97.025719,115,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,51,2459631,-9999,9,-9999,1,2022,95,2459675,-9999,3,-9999
+46335,30.383759,-97.025719,115,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,76,2459656,-9999,2,-9999,1,2022,95,2459675,-9999,3,-9999
+46343,37.861115,-79.565437,440,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,124,2459704,-9999,7,-9999
+46343,37.861115,-79.565437,440,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,105,2459685,-9999,1,-9999,1,2022,122,2459702,-9999,2,-9999
+46344,39.233734,-76.862251,108,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,103,2459683,1.6666666666667,4.6666666666667,0.33333333333333,0,-9999,-9999,-9999,-9999,-9999,-9999
+46349,38.815659,-77.242874,74,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2022,116,2459696,0,6,0
+46351,40.766384,-111.825394,1525,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,108,2459688,-9999,7,-9999,1,2022,115,2459695,-9999,7,-9999
+46351,40.766384,-111.825394,1525,UT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,108,2459688,-9999,7,-9999,1,2022,115,2459695,-9999,7,-9999
+46352,40.767426,-111.823402,1555,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,146,2459726,-9999,6,-9999
+46352,40.767426,-111.823402,1555,UT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,146,2459726,-9999,6,-9999
+46354,36.421509,-118.908669,271,CA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,44,2459624,-9999,25,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46474,44.580803,-123.266312,69,OR,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,42,2459622,-9999,1,-9999,1,2022,131,2459711,-9999,9,-9999
+46474,44.580803,-123.266312,69,OR,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,64,2459644,-9999,2,-9999,1,2022,131,2459711,-9999,9,-9999
+46512,30.856802,-97.046509,141,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,47,2459627,-9999,6,-9999,1,2022,94,2459674,-9999,10,-9999
+46512,30.856802,-97.046509,141,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,69,2459649,-9999,11,-9999,1,2022,94,2459674,-9999,10,-9999
+46520,35.087517,-81.02356,190,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2022,72,2459652,8.0897740663411,14,3.7859388972002,0,-9999,-9999,-9999,-9999,-9999,-9999
+46520,35.087517,-81.02356,190,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,88,2459668,0,20,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+46523,40.207062,-76.121803,127,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,104,2459684,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46577,33.888622,-84.072922,287,GA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,78,2459658,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46577,33.888622,-84.072922,287,GA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,81,2459661,-9999,17,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46581,38.883358,-77.106964,77,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,70,2459650,-9999,11,-9999,1,2022,117,2459697,-9999,10,-9999
+46581,38.883358,-77.106964,77,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,99,2459679,-9999,22,-9999,1,2022,117,2459697,-9999,10,-9999
+46582,38.915703,-77.108826,56,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,69,2459649,-9999,5,-9999,1,2022,106,2459686,-9999,13,-9999
+46582,38.915703,-77.108826,56,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,87,2459667,-9999,4,-9999,1,2022,106,2459686,-9999,13,-9999
+46593,35.799,-78.6884,142,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,55,2459635,0.5,1.5,0.5,1,2022,55,2459635,-9999,4,-9999
+46657,32.966671,-95.298874,154,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2022,83,2459663,0,11,0,2,2022,97,2459677,0,13,0
+46657,32.966671,-95.298874,154,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,87,2459667,4,9.5,1.5,2,2022,97,2459677,0,13,0
+46662,40.385986,-75.151962,179,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2022,76,2459656,0,7,0,1,2022,108,2459688,-9999,9,-9999
+46662,40.385986,-75.151962,179,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,113,2459693,4.5,9.5,0.5,0,-9999,-9999,-9999,-9999,-9999,-9999
+46682,40.101818,-76.316254,110,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,128,2459708,-9999,6,-9999
+46682,40.101818,-76.316254,110,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,128,2459708,-9999,7,-9999,1,2022,134,2459714,-9999,6,-9999
+46689,40.187546,-83.219193,300,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,118,2459698,-9999,18,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46690,40.187546,-83.219193,300,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,100,2459680,-9999,18,-9999
+46690,40.187546,-83.219193,300,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,118,2459698,-9999,18,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46728,38.932724,-76.492966,5,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,82,2459662,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46729,34.048958,-81.182037,61,SC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,4,2022,81,2459661,2.0412414523193,3.75,0.75
+46729,34.048958,-81.182037,61,SC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,4,2022,66,2459646,1.1814539065632,2.25,0.25,4,2022,82,2459662,1.6583123951777,4,0.57735026918963
+46740,32.605694,-96.983215,234,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,10,2022,70,2459650,2.4549270186029,3.5,0.45338235029118,8,2022,70,2459650,3.4524835781134,6.5,1.3887301496588
+46740,32.605694,-96.983215,234,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,10,2022,79,2459659,1.6812693617225,5.2,0.59254629448771,7,2022,82,2459662,0,11,0
+46744,35.927807,-79.023872,80,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2022,53,2459633,3.5,7,0,2,2022,100,2459680,0,5,0
+46744,35.927807,-79.023872,80,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,63,2459643,0,7,0,2,2022,100,2459680,0,5,0
+46750,36.013115,-83.910217,307,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2022,74,2459654,0,3,0,3,2022,116,2459696,0,14,0
+46750,36.013115,-83.910217,307,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,77,2459657,0,3,0,3,2022,116,2459696,0,14,0
+46764,35.884857,-79.942314,241,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,74,2459654,-9999,4,-9999,1,2022,104,2459684,-9999,15,-9999
+46764,35.884857,-79.942314,241,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,82,2459662,-9999,5,-9999,1,2022,104,2459684,-9999,15,-9999
+46765,30.290701,-97.731796,165,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2022,80,2459660,0,7,0,2,2022,67,2459647,3,6,3
+46765,30.290701,-97.731796,165,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,80,2459660,0,7,0,2,2022,67,2459647,3,6,3
+46831,38.940819,-76.568039,8,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,74,2459654,-9999,16,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46855,44.939552,-93.195961,257,MN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,114,2459694,-9999,1,-9999,1,2022,248,2459828,-9999,1,-9999
+46855,44.939552,-93.195961,257,MN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,132,2459712,-9999,1,-9999,1,2022,150,2459730,-9999,1,-9999
+46856,44.938332,-93.197914,249,MN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,120,2459700,-9999,1,-9999,1,2022,150,2459730,-9999,1,-9999
+46856,44.938332,-93.197914,249,MN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,133,2459713,-9999,1,-9999,1,2022,150,2459730,-9999,1,-9999
+46862,43.694717,-79.394478,150,ON,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,129,2459709,-9999,11,-9999,1,2022,136,2459716,-9999,23,-9999
+46956,40.709389,-91.048721,170,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2022,86,2459666,3.1797973380565,7.6666666666667,2.185812841434,3,2022,134,2459714,0,4,0
+46956,40.709389,-91.048721,170,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,114,2459694,0.33333333333333,2.3333333333333,1.3333333333333,3,2022,134,2459714,0,4,0
+46963,35.281132,-77.15126,2,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,95,2459675,-9999,3,-9999
+46963,35.281132,-77.15126,2,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,98,2459678,-9999,2,-9999
+46985,44.937286,-93.19593,253,MN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,114,2459694,-9999,1,-9999,1,2022,149,2459729,-9999,1,-9999
+46985,44.937286,-93.19593,253,MN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,133,2459713,-9999,1,-9999,1,2022,149,2459729,-9999,1,-9999
+47029,30.290035,-97.729836,166,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,58,2459638,-9999,2,-9999
+47032,40.918159,-90.285217,236,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,122,2459702,-9999,25,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47078,36.3727,-80.1483,254,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,99,2459679,-9999,3,-9999,1,2022,106,2459686,-9999,7,-9999
+47078,36.3727,-80.1483,254,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,102,2459682,-9999,4,-9999
+47112,40.86433,-79.945,384,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2022,133,2459713,0,18,0
+47112,40.86433,-79.945,384,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2022,117,2459697,0,4,0,2,2022,133,2459713,0,18,0
+47114,35.603863,-82.504356,677,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,89,2459669,-9999,23,-9999
+47142,38.557934,-81.441483,321,WV,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,80,2459660,-9999,3,-9999,1,2022,113,2459693,-9999,2,-9999
+47142,38.557934,-81.441483,321,WV,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,91,2459671,-9999,2,-9999,1,2022,119,2459699,-9999,4,-9999
+47153,36.042099,-84.222099,280,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,90,2459670,-9999,25,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47153,36.042099,-84.222099,280,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,90,2459670,-9999,25,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47154,34.088436,-81.124901,76,SC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,4,2022,84,2459664,1.8874586088177,3.25,0.6291528696059
+47154,34.088436,-81.124901,76,SC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,4,2022,85,2459665,2.3094010767585,4,0.57735026918963
+47158,39.849152,-77.10305,170,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2022,78,2459658,0,8,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+47175,42.305546,-85.645737,287,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,3,2022,142,2459722,1.6666666666667,5.3333333333333,0.33333333333333
+47175,42.305546,-85.645737,287,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,133,2459713,0.66666666666667,4.6666666666667,1.3333333333333,3,2022,142,2459722,1.6666666666667,5.3333333333333,0.33333333333333
+47272,35.574799,-82.605904,647,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,114,2459694,-9999,7,-9999,1,2022,114,2459694,-9999,29,-9999
+47272,35.574799,-82.605904,647,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,90,2459670,-9999,13,-9999,1,2022,114,2459694,-9999,29,-9999
+47286,35.949524,-78.82518,116,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,107,2459687,-9999,6,-9999
+47286,35.949524,-78.82518,116,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,101,2459681,-9999,12,-9999
+47333,38.962933,-76.933136,13,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,83,2459663,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47346,39.920479,-82.731239,300,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2022,104,2459684,8.6666666666667,12.666666666667,6.6666666666667,1,2022,121,2459701,-9999,12,-9999
+47346,39.920479,-82.731239,300,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2022,116,2459696,2.3333333333333,14.666666666667,5.6666666666667,1,2022,121,2459701,-9999,12,-9999
+47513,39.879257,-75.298874,3,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,103,2459683,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47532,40.200542,-79.194099,519,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,98,2459678,-9999,8,-9999,1,2022,125,2459705,-9999,15,-9999
+47532,40.200542,-79.194099,519,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,125,2459705,-9999,13,-9999,1,2022,125,2459705,-9999,15,-9999
+47538,42.306362,-85.642555,287,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,132,2459712,-9999,7,-9999
+47538,42.306362,-85.642555,287,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,132,2459712,-9999,8,-9999,1,2022,139,2459719,-9999,7,-9999
+47539,42.306366,-85.642654,287,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,128,2459708,-9999,7,-9999
+47539,42.306366,-85.642654,287,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,135,2459715,-9999,7,-9999,1,2022,135,2459715,-9999,15,-9999
+47540,42.306419,-85.642632,285,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,125,2459705,-9999,6,-9999
+47540,42.306419,-85.642632,285,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,131,2459711,-9999,6,-9999,1,2022,131,2459711,-9999,16,-9999
+47592,41.857159,-74.222038,232,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,105,2459685,-9999,18,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47592,41.857159,-74.222038,232,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,131,2459711,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47666,38.743599,-82.856697,216,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,112,2459692,-9999,6,-9999
+47666,38.743599,-82.856697,216,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,102,2459682,-9999,5,-9999,1,2022,112,2459692,-9999,6,-9999
+47810,43.158978,-77.396049,166,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,117,2459697,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47810,43.158978,-77.396049,166,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,133,2459713,-9999,9,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47887,38.650562,-79.970222,679,WV,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,164,2459744,-9999,10,-9999
+47887,38.650562,-79.970222,679,WV,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,108,2459688,-9999,1,-9999,1,2022,164,2459744,-9999,10,-9999
+47915,42.091091,-83.687592,213,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,129,2459709,-9999,2,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+48047,44.986454,-93.18499,303,MN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,105,2459685,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+48070,42.716637,-73.752335,99,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,104,2459684,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+48105,42.316715,-73.749847,41,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,103,2459683,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+48105,42.316715,-73.749847,41,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2022,123,2459703,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+48108,42.716637,-73.752335,99,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,96,2459676,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+48486,35.643032,-81.75119,375,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,171,2459751,-9999,13,-9999
+48486,35.643032,-81.75119,375,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2022,171,2459751,-9999,13,-9999
+50814,40.765907,-111.823753,1541,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2022,104,2459684,-9999,7,-9999,1,2022,161,2459741,-9999,7,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,94,2460039,-9999,13,-9999
+459,36.524502,-92.751999,234,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,94,2460039,-9999,13,-9999
+859,40.059612,-83.009933,255,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,65,2460010,-9999,9,-9999,1,2023,113,2460058,-9999,14,-9999
+859,40.059612,-83.009933,255,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,106,2460051,-9999,7,-9999,1,2023,127,2460072,-9999,7,-9999
+5431,35.517879,-82.469681,786,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,99,2460044,-9999,16,-9999
+5431,35.517879,-82.469681,786,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,82,2460027,-9999,8,-9999,1,2023,99,2460044,-9999,16,-9999
+6481,42.456135,-72.344215,253,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,106,2460051,-9999,7,-9999,1,2023,143,2460088,-9999,5,-9999
+6481,42.456135,-72.344215,253,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,127,2460072,-9999,10,-9999,1,2023,143,2460088,-9999,5,-9999
+8253,40.672852,-111.969254,1331,UT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,120,2460065,-9999,12,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2023,57,2460002,0,6,0,2,2023,65,2460010,0,3,0
+8418,32.363758,-94.873947,108,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2023,57,2460002,0,6,0,2,2023,65,2460010,0,3,0
+8587,39.096817,-91.465874,239,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,95,2460040,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,62,2460007,-9999,7,-9999,1,2023,99,2460044,-9999,4,-9999
+9341,35.639874,-83.687721,444,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,72,2460017,-9999,10,-9999,1,2023,99,2460044,-9999,4,-9999
+10585,41.433689,-81.693153,220,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,110,2460055,-9999,7,-9999,1,2023,138,2460083,-9999,7,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,98,2460043,-9999,5,-9999,1,2023,135,2460080,-9999,14,-9999
+12249,42.518417,-76.556999,175,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,114,2460059,-9999,3,-9999,1,2023,135,2460080,-9999,14,-9999
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,81,2460026,-9999,6,-9999,1,2023,129,2460074,-9999,1,-9999
+18537,40.86404,-73.878288,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,99,2460044,-9999,1,-9999,1,2023,129,2460074,-9999,1,-9999
+18949,42.365437,-71.258598,45,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,94,2460039,-9999,8,-9999,1,2023,75,2460020,-9999,11,-9999
+18949,42.365437,-71.258598,45,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,94,2460039,-9999,8,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,88,2460033,-9999,23,-9999
+19380,35.811588,-78.713982,129,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,54,2459999,-9999,14,-9999,1,2023,88,2460033,-9999,23,-9999
+20120,42.366829,-71.257408,53,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,86,2460031,-9999,7,-9999,1,2023,75,2460020,-9999,4,-9999
+20120,42.366829,-71.257408,53,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,111,2460056,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+22580,42.077522,-72.558563,52,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,71,2460016,-9999,20,-9999,1,2023,133,2460078,-9999,7,-9999
+22580,42.077522,-72.558563,52,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,106,2460051,-9999,1,-9999,1,2023,133,2460078,-9999,7,-9999
+22976,32.230385,-110.951462,740,AZ,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,75,2460020,-9999,21,-9999
+22976,32.230385,-110.951462,740,AZ,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,75,2460020,-9999,21,-9999
+23738,35.664925,-105.927788,2182,NM,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,111,2460056,-9999,6,-9999,1,2023,146,2460091,-9999,3,-9999
+23738,35.664925,-105.927788,2182,NM,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,125,2460070,-9999,4,-9999,1,2023,146,2460091,-9999,3,-9999
+24164,40.665085,-73.963432,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,117,2460062,-9999,6,-9999
+24164,40.665085,-73.963432,28,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,94,2460039,-9999,5,-9999,1,2023,117,2460062,-9999,6,-9999
+25424,42.286526,-72.653793,40,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,86,2460031,-9999,6,-9999,1,2023,135,2460080,-9999,7,-9999
+25424,42.286526,-72.653793,40,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,110,2460055,-9999,2,-9999,1,2023,135,2460080,-9999,7,-9999
+26897,40.128613,-75.340515,39,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,85,2460030,-9999,2,-9999,1,2023,118,2460063,-9999,3,-9999
+26897,40.128613,-75.340515,39,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,101,2460046,-9999,1,-9999,1,2023,118,2460063,-9999,3,-9999
+29012,38.953266,-75.934799,6,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,83,2460028,-9999,14,-9999,1,2023,111,2460056,-9999,14,-9999
+29012,38.953266,-75.934799,6,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,97,2460042,-9999,14,-9999,1,2023,111,2460056,-9999,14,-9999
+30085,38.957569,-75.93177,12,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,83,2460028,-9999,14,-9999,1,2023,111,2460056,-9999,14,-9999
+30085,38.957569,-75.93177,12,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,111,2460056,-9999,14,-9999,1,2023,111,2460056,-9999,14,-9999
+31699,39.871071,-86.161232,237,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,268,2460213,-9999,7,-9999,3,2023,167,2460112,50.666666666667,12.333333333333,4.6666666666667
+31699,39.871071,-86.161232,237,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,105,2460050,1.3333333333333,5.3333333333333,0.66666666666667,3,2023,122,2460067,5.6666666666667,19,2
+31819,43.338379,-70.550728,12,ME,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,107,2460052,-9999,7,-9999,1,2023,138,2460083,-9999,8,-9999
+31819,43.338379,-70.550728,12,ME,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,138,2460083,-9999,13,-9999,1,2023,138,2460083,-9999,8,-9999
+32210,35.947197,-83.939865,258,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,96,2460041,-9999,8,-9999,1,2023,104,2460049,-9999,14,-9999
+32210,35.947197,-83.939865,258,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,96,2460041,-9999,8,-9999,1,2023,104,2460049,-9999,14,-9999
+32443,39.90163,-86.175911,240,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,104,2460049,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+32789,40.73082,-73.99733,5,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,100,2460045,-9999,21,-9999,1,2023,103,2460048,-9999,5,-9999
+32789,40.73082,-73.99733,5,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,103,2460048,-9999,24,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+32877,38.595692,-85.955193,273,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,44,2459989,-9999,7,-9999,1,2023,128,2460073,-9999,8,-9999
+32877,38.595692,-85.955193,273,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,100,2460045,-9999,5,-9999,1,2023,121,2460066,-9999,7,-9999
+32985,39.009678,-77.095146,65,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,71,2460016,-9999,16,-9999,1,2023,111,2460056,-9999,30,-9999
+32985,39.009678,-77.095146,65,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,100,2460045,-9999,12,-9999,1,2023,111,2460056,-9999,30,-9999
+33012,42.011364,-93.638145,276,IA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,124,2460069,-9999,11,-9999
+33012,42.011364,-93.638145,276,IA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,110,2460055,-9999,7,-9999,1,2023,124,2460069,-9999,11,-9999
+34665,38.999882,-86.59021,281,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,108,2460053,-9999,15,-9999
+34665,38.999882,-86.59021,281,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,100,2460045,-9999,5,-9999,1,2023,108,2460053,-9999,15,-9999
+35126,39.585384,-86.182289,220,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,124,2460069,-9999,2,-9999,2,2023,124,2460069,0,14,0
+35126,39.585384,-86.182289,220,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2023,123,2460068,1,13,11,2,2023,124,2460069,0,14,0
+37196,41.814323,-88.070099,204,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,4,2023,98,2460043,0,3,0,4,2023,151,2460096,0,9,0
+37196,41.814323,-88.070099,204,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,4,2023,126,2460071,0,7,0,4,2023,151,2460096,0,9,0
+37197,41.813972,-88.068817,207,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2023,96,2460041,0,9,0,3,2023,136,2460081,0,7,0
+37197,41.813972,-88.068817,207,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,108,2460053,0,3,0,3,2023,135,2460080,1,5.6666666666667,1.3333333333333
+38489,39.065994,-76.504898,4,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,96,2460041,-9999,5,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+41426,38.654652,-90.347107,172,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,92,2460037,-9999,9,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+41426,38.654652,-90.347107,172,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,99,2460044,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+41802,39.910755,-86.424187,284,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2023,115,2460060,0,22,0
+41802,39.910755,-86.424187,284,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,115,2460060,-9999,13,-9999,1,2023,115,2460060,-9999,22,-9999
+42014,41.702904,-72.910858,89,CT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,104,2460049,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+42776,41.084698,-85.163902,240,IN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,127,2460072,-9999,15,-9999
+42776,41.084698,-85.163902,240,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,127,2460072,-9999,15,-9999
+43554,35.729401,-78.813835,134,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,86,2460031,-9999,16,-9999
+43554,35.729401,-78.813835,134,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,86,2460031,-9999,16,-9999
+43781,37.82851,-79.857574,465,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,60,2460005,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+43781,37.82851,-79.857574,465,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,85,2460030,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+43881,38.74696,-77.577141,80,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,107,2460052,-9999,16,-9999
+43881,38.74696,-77.577141,80,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,107,2460052,-9999,16,-9999
+44146,40.101246,-76.323044,112,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,6,2023,92,2460037,2.2607766610418,7.8333333333333,1.4003967691733,1,2023,95,2460040,-9999,3,-9999
+44146,40.101246,-76.323044,112,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,97,2460042,1,5,1,0,-9999,-9999,-9999,-9999,-9999,-9999
+44155,38.767632,-77.215584,65,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,52,2459997,-9999,7,-9999,1,2023,109,2460054,-9999,6,-9999
+44155,38.767632,-77.215584,65,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,91,2460036,-9999,2,-9999,1,2023,109,2460054,-9999,6,-9999
+44159,40.546528,-75.083557,108,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,49,2459994,-9999,13,-9999,1,2023,123,2460068,-9999,8,-9999
+44159,40.546528,-75.083557,108,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,109,2460054,-9999,6,-9999,1,2023,118,2460063,-9999,5,-9999
+44166,39.650627,-79.988327,287,WV,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,98,2460043,0,21,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+44174,40.328682,-76.730431,154,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,4,2023,96,2460041,0,4,0,5,2023,120,2460065,4,13.8,0.2
+44174,40.328682,-76.730431,154,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,4,2023,102,2460047,0,1,0,5,2023,120,2460065,4,12.4,1.6
+44195,40.448875,-80.203178,307,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,105,2460050,-9999,21,-9999
+44195,40.448875,-80.203178,307,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,105,2460050,-9999,21,-9999
+44200,40.651798,-75.454597,121,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,99,2460044,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+44200,40.651798,-75.454597,121,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,103,2460048,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+44214,42.098446,-80.050003,299,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,6,2023,97,2460042,0,6,0,6,2023,146,2460091,2.151227040035,8.6666666666667,1.6666666666667
+44214,42.098446,-80.050003,299,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,6,2023,130,2460075,1.4757295747452,7,0,6,2023,143,2460088,3.1162655713387,8.8333333333333,1.6414763002994
+44260,36.7384,-93.128662,281,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,64,2460009,-9999,1,-9999,1,2023,111,2460056,-9999,8,-9999
+44260,36.7384,-93.128662,281,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,87,2460032,-9999,1,-9999,1,2023,111,2460056,-9999,8,-9999
+44338,40.107903,-77.03672,177,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,83,2460028,-9999,8,-9999,1,2023,124,2460069,-9999,8,-9999
+44338,40.107903,-77.03672,177,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,98,2460043,-9999,7,-9999,1,2023,124,2460069,-9999,8,-9999
+44581,38.347412,-75.605858,6,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2023,66,2460011,11.666666666667,14,7,3,2023,166,2460111,66.304851506759,6.3333333333333,0.33333333333333
+44581,38.347412,-75.605858,6,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,90,2460035,4.1633319989323,5.6666666666667,1.3333333333333,2,2023,97,2460042,14.5,6.5,0.5
+44683,38.343811,-75.60585,10,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2023,68,2460013,0,9.3333333333333,2.3333333333333,3,2023,98,2460043,12.346839451635,11.666666666667,2.3333333333333
+44683,38.343811,-75.60585,10,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,110,2460055,-9999,14,-9999,1,2023,110,2460055,-9999,7,-9999
+44865,39.6945,-86.379303,222,IN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,102,2460047,-9999,28,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+44981,35.796909,-78.688995,138,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,39,2459984,-9999,2,-9999,2,2023,91,2460036,5,3,1
+44981,35.796909,-78.688995,138,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2023,56,2460001,9.5,3.5,1.5,2,2023,89,2460034,6.5,2.5,1.5
+46202,35.16766,-81.05687,197,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2023,50,2459995,4.6666666666667,7,0,3,2023,78,2460023,2.3333333333333,7,0
+46202,35.16766,-81.05687,197,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,61,2460006,2.3333333333333,7,0,3,2023,85,2460030,2.3333333333333,7,0
+46320,40.869499,-79.887299,356,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,109,2460054,0,8,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+46327,38.884254,-77.142738,85,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,77,2460022,-9999,17,-9999,1,2023,102,2460047,-9999,5,-9999
+46327,38.884254,-77.142738,85,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,90,2460035,-9999,5,-9999,1,2023,102,2460047,-9999,5,-9999
+46335,30.383759,-97.025719,115,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,37,2459982,-9999,5,-9999,1,2023,355,2460300,-9999,7,-9999
+46335,30.383759,-97.025719,115,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,55,2460000,-9999,4,-9999,1,2023,355,2460300,-9999,7,-9999
+46344,39.233734,-76.862251,108,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,105,2460050,3,8.6666666666667,0.33333333333333,0,-9999,-9999,-9999,-9999,-9999,-9999
+46474,44.580803,-123.266312,69,OR,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,96,2460041,-9999,27,-9999,1,2023,136,2460081,-9999,6,-9999
+46474,44.580803,-123.266312,69,OR,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,120,2460065,-9999,4,-9999,1,2023,136,2460081,-9999,6,-9999
+46512,30.856802,-97.046509,141,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,18,2459963,-9999,13,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46581,38.883358,-77.106964,77,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,61,2460006,-9999,16,-9999,1,2023,108,2460053,-9999,4,-9999
+46581,38.883358,-77.106964,77,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,97,2460042,-9999,6,-9999,1,2023,108,2460053,-9999,4,-9999
+46582,38.915703,-77.108826,56,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,60,2460005,-9999,28,-9999,1,2023,110,2460055,-9999,6,-9999
+46582,38.915703,-77.108826,56,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,110,2460055,-9999,6,-9999
+46662,40.385986,-75.151962,179,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2023,100,2460045,0,12,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+46662,40.385986,-75.151962,179,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2023,104,2460049,0,4,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+46682,40.101818,-76.316254,110,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2023,85,2460030,1,5.5,3.5,1,2023,84,2460029,-9999,2,-9999
+46728,38.932724,-76.492966,5,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,92,2460037,-9999,15,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46729,34.048958,-81.182037,61,SC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,4,2023,33,2459978,3.25,4.75,0.75,4,2023,77,2460022,1.5,6.75,0.75
+46729,34.048958,-81.182037,61,SC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,4,2023,52,2459997,3.5,5.5,0.5,4,2023,75,2460020,0,6,0
+46764,35.884857,-79.942314,241,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,90,2460035,-9999,7,-9999
+46764,35.884857,-79.942314,241,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,60,2460005,-9999,5,-9999,1,2023,90,2460035,-9999,7,-9999
+46855,44.939552,-93.195961,257,MN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,102,2460047,-9999,7,-9999,1,2023,143,2460088,-9999,1,-9999
+46855,44.939552,-93.195961,257,MN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,128,2460073,-9999,3,-9999,1,2023,143,2460088,-9999,1,-9999
+46856,44.938332,-93.197914,249,MN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,102,2460047,-9999,7,-9999,1,2023,143,2460088,-9999,1,-9999
+46856,44.938332,-93.197914,249,MN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,130,2460075,-9999,1,-9999,1,2023,143,2460088,-9999,1,-9999
+46956,40.709389,-91.048721,170,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2023,85,2460030,5.3333333333333,13,3,3,2023,126,2460071,0,7,0
+46956,40.709389,-91.048721,170,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,96,2460041,1,3.3333333333333,0.33333333333333,3,2023,126,2460071,0,7,0
+46985,44.937286,-93.19593,253,MN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,102,2460047,-9999,7,-9999,1,2023,143,2460088,-9999,1,-9999
+46985,44.937286,-93.19593,253,MN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,128,2460073,-9999,3,-9999,1,2023,143,2460088,-9999,1,-9999
+46995,40.872353,-72.524315,13,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,121,2460066,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46999,31.028799,-97.518295,202,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,50,2459995,-9999,12,-9999
+47078,36.3727,-80.1483,254,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,71,2460016,-9999,4,-9999,1,2023,85,2460030,-9999,9,-9999
+47078,36.3727,-80.1483,254,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,71,2460016,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47142,38.557934,-81.441483,321,WV,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,102,2460047,-9999,14,-9999
+47142,38.557934,-81.441483,321,WV,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,91,2460036,-9999,9,-9999,1,2023,102,2460047,-9999,14,-9999
+47154,34.088436,-81.124901,76,SC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,4,2023,33,2459978,2.0207259421637,13.5,2.0207259421637,2,2023,90,2460035,0,6,0
+47154,34.088436,-81.124901,76,SC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,4,2023,47,2459992,0,2,0,2,2023,90,2460035,0,6,0
+47272,35.574799,-82.605904,647,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,76,2460021,-9999,13,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47286,35.949524,-78.82518,116,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,57,2460002,-9999,9,-9999,1,2023,90,2460035,-9999,7,-9999
+47286,35.949524,-78.82518,116,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,69,2460014,-9999,6,-9999,1,2023,90,2460035,-9999,7,-9999
+47333,38.962933,-76.933136,13,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,112,2460057,-9999,4,-9999
+47333,38.962933,-76.933136,13,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,92,2460037,-9999,3,-9999,1,2023,112,2460057,-9999,4,-9999
+47513,39.879257,-75.298874,3,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,95,2460040,-9999,30,-9999
+47513,39.879257,-75.298874,3,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,95,2460040,-9999,6,-9999,1,2023,95,2460040,-9999,30,-9999
+47532,40.200542,-79.194099,519,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,76,2460021,-9999,7,-9999,1,2023,125,2460070,-9999,6,-9999
+47532,40.200542,-79.194099,519,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,111,2460056,-9999,7,-9999,1,2023,125,2460070,-9999,6,-9999
+47538,42.306362,-85.642555,287,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,105,2460050,-9999,6,-9999,1,2023,141,2460086,-9999,7,-9999
+47538,42.306362,-85.642555,287,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,127,2460072,-9999,7,-9999,1,2023,141,2460086,-9999,7,-9999
+47539,42.306366,-85.642654,287,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,105,2460050,-9999,6,-9999,1,2023,141,2460086,-9999,7,-9999
+47539,42.306366,-85.642654,287,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,127,2460072,-9999,7,-9999,1,2023,141,2460086,-9999,7,-9999
+47592,41.857159,-74.222038,232,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,111,2460056,-9999,6,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+47915,42.091091,-83.687592,213,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,95,2460040,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+48230,39.328362,-76.620491,70,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,108,2460053,-9999,1,-9999,8,2023,107,2460052,0.58056315025032,3.25,0.8813544770895
+48230,39.328362,-76.620491,70,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2023,104,2460049,4,2,1,8,2023,107,2460052,0.58056315025032,3.25,0.8813544770895
+48555,33.813538,-84.28347,305,GA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2023,44,2459989,2.3333333333333,7,0,3,2023,84,2460029,0,6.6666666666667,1.6666666666667
+48555,33.813538,-84.28347,305,GA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,60,2460005,2.6457513110646,3,0,3,2023,84,2460029,0,6.6666666666667,1.6666666666667
+48679,34.241936,-77.920715,4,NC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,70,2460015,-9999,11,-9999,1,2023,96,2460041,-9999,24,-9999
+48679,34.241936,-77.920715,4,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,70,2460015,-9999,11,-9999,1,2023,96,2460041,-9999,24,-9999
+48777,43.065788,-89.454697,274,WI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,102,2460047,-9999,2,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+48777,43.065788,-89.454697,274,WI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,135,2460080,-9999,12,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50041,38.938599,-77.177887,92,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,79,2460024,-9999,12,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50041,38.938599,-77.177887,92,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,100,2460045,-9999,13,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50149,43.654182,-84.256729,191,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,106,2460051,-9999,21,-9999,1,2023,143,2460088,-9999,14,-9999
+50149,43.654182,-84.256729,191,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,130,2460075,-9999,10,-9999,1,2023,143,2460088,-9999,14,-9999
+50193,38.892681,-77.136513,106,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2023,56,2460001,0,4,0,3,2023,109,2460054,0,13,0
+50193,38.892681,-77.136513,106,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,93,2460038,2,3,0,3,2023,109,2460054,0,13,0
+50199,41.740589,-88.240593,216,IL,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,129,2460074,-9999,1,-9999
+50199,41.740589,-88.240593,216,IL,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,111,2460056,-9999,2,-9999,1,2023,129,2460074,-9999,1,-9999
+50201,37.125317,-80.439125,661,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,75,2460020,-9999,19,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50202,38.904179,-77.14167,102,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,55,2460000,-9999,6,-9999
+50208,42.756737,-84.458572,266,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,103,2460048,-9999,8,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50209,38.508274,-90.360184,171,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,67,2460012,-9999,7,-9999,1,2023,123,2460068,-9999,7,-9999
+50209,38.508274,-90.360184,171,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,110,2460055,-9999,8,-9999,1,2023,116,2460061,-9999,7,-9999
+50220,38.941113,-95.268211,274,KS,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,4,2023,70,2460015,1.5,7.5,0.5,4,2023,125,2460070,0,5,0
+50220,38.941113,-95.268211,274,KS,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,4,2023,94,2460039,3.9024564913227,3.5,1.4433756729741,4,2023,121,2460066,0,2,0
+50227,39.69175,-77.949478,249,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,125,2460070,-9999,5,-9999
+50227,39.69175,-77.949478,249,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,98,2460043,-9999,2,-9999,1,2023,125,2460070,-9999,5,-9999
+50230,29.879728,-95.497734,24,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,78,2460023,-9999,19,-9999,1,2023,78,2460023,-9999,9,-9999
+50230,29.879728,-95.497734,24,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,78,2460023,-9999,19,-9999,1,2023,78,2460023,-9999,9,-9999
+50273,37.247391,-76.701538,24,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2023,57,2460002,1.3333333333333,7.6666666666667,1.3333333333333,0,-9999,-9999,-9999,-9999,-9999,-9999
+50273,37.247391,-76.701538,24,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2023,63,2460008,0,5,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+50324,38.873665,-77.128578,82,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,65,2460010,-9999,19,-9999,1,2023,102,2460047,-9999,12,-9999
+50324,38.873665,-77.128578,82,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,102,2460047,-9999,17,-9999,1,2023,102,2460047,-9999,12,-9999
+50345,38.877285,-77.135155,70,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,65,2460010,-9999,19,-9999,1,2023,105,2460050,-9999,19,-9999
+50345,38.877285,-77.135155,70,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,100,2460045,-9999,12,-9999,1,2023,105,2460050,-9999,19,-9999
+50367,36.037201,-79.3647,147,NC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,57,2460002,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50390,39.963856,-82.012428,240,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2023,121,2460066,0,8,0
+50390,39.963856,-82.012428,240,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2023,101,2460046,0,14,0,2,2023,121,2460066,0,8,0
+50395,35.222569,-97.439476,357,OK,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2023,80,2460025,0,9,0,1,2023,94,2460039,-9999,10,-9999
+50395,35.222569,-97.439476,357,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2023,94,2460039,0,11.5,2.5,1,2023,94,2460039,-9999,10,-9999
+50517,37.256523,-80.679527,656,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,91,2460036,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50517,37.256523,-80.679527,656,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,100,2460045,-9999,9,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50557,35.213223,-97.424911,354,OK,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2023,61,2460006,7,4.5,0.5,2,2023,99,2460044,0,4,0
+50557,35.213223,-97.424911,354,OK,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2023,92,2460037,7,8.5,3.5,2,2023,103,2460048,3.5,6,2
+50739,40.691261,-73.963165,20,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,103,2460048,-9999,1,-9999
+50739,40.691261,-73.963165,20,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,101,2460046,-9999,15,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50883,41.559566,-93.743469,282,IA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,115,2460060,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50919,37.448772,-75.941399,1,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,64,2460009,-9999,1,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50924,38.579102,-90.285599,150,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,100,2460045,-9999,13,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50925,38.578899,-90.285698,150,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,100,2460045,-9999,13,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50933,38.653458,-90.549652,192,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,114,2460059,-9999,20,-9999
+50933,38.653458,-90.549652,192,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,96,2460041,-9999,3,-9999,1,2023,114,2460059,-9999,20,-9999
+51025,39.67411,-76.672234,152,MD,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,109,2460054,-9999,15,-9999
+51025,39.67411,-76.672234,152,MD,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,100,2460045,-9999,15,-9999,1,2023,109,2460054,-9999,15,-9999
+51029,45.73185,-108.621147,982,MT,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,139,2460084,-9999,4,-9999,1,2023,139,2460084,-9999,7,-9999
+51029,45.73185,-108.621147,982,MT,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,139,2460084,-9999,4,-9999,1,2023,139,2460084,-9999,7,-9999
+51031,38.899647,-77.260216,114,VA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,109,2460054,-9999,17,-9999
+51031,38.899647,-77.260216,114,VA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,99,2460044,-9999,24,-9999,1,2023,109,2460054,-9999,17,-9999
+51052,37.590611,-81.108292,997,WV,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,90,2460035,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+51052,37.590611,-81.108292,997,WV,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,90,2460035,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+51062,35.482872,-84.958694,226,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,88,2460033,-9999,7,-9999
+51062,35.482872,-84.958694,226,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,75,2460020,-9999,13,-9999,1,2023,88,2460033,-9999,7,-9999
+51088,38.704292,-91.156441,243,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,97,2460042,-9999,16,-9999
+51088,38.704292,-91.156441,243,MO,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,97,2460042,-9999,5,-9999,1,2023,97,2460042,-9999,16,-9999
+51168,32.239799,-110.9496,748,AZ,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2023,82,2460027,0,6.5,1.5
+51168,32.239799,-110.9496,748,AZ,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2023,82,2460027,0,6.5,1.5
+51368,43.629982,-85.604706,335,MI,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,112,2460057,-9999,6,-9999,1,2023,141,2460086,-9999,13,-9999
+51368,43.629982,-85.604706,335,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,133,2460078,-9999,7,-9999,1,2023,154,2460099,-9999,5,-9999
+51411,39.954212,-82.931541,238,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,90,2460035,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+51411,39.954212,-82.931541,238,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,108,2460053,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+51418,38.907192,-77.036873,21,DC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,2,2023,104,2460049,0,9,0
+51418,38.907192,-77.036873,21,DC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,2,2023,87,2460032,1,3.5,1.5,2,2023,104,2460049,0,9,0
+51420,38.943253,-77.021767,66,DC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,104,2460049,-9999,7,-9999
+51420,38.943253,-77.021767,66,DC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,88,2460033,-9999,1,-9999,1,2023,104,2460049,-9999,7,-9999
+51435,38.905899,-77.0308,26,DC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,102,2460047,-9999,9,-9999
+51435,38.905899,-77.0308,26,DC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,89,2460034,-9999,3,-9999,1,2023,102,2460047,-9999,9,-9999
+51436,39.980137,-82.413101,301,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2023,100,2460045,0,12.666666666667,1.3333333333333,1,2023,86,2460031,-9999,4,-9999
+51436,39.980137,-82.413101,301,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,3,2023,108,2460053,0,8,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+51444,38.919998,-77.014801,33,DC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,107,2460052,-9999,6,-9999
+51444,38.919998,-77.014801,33,DC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,94,2460039,-9999,1,-9999,1,2023,107,2460052,-9999,6,-9999
+51449,38.908501,-77.021599,27,DC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,108,2460053,-9999,29,-9999
+51449,38.908501,-77.021599,27,DC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,103,2460048,-9999,5,-9999
+51481,40.086735,-76.31221,114,PA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,108,2460053,-9999,8,-9999
+51481,40.086735,-76.31221,114,PA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,108,2460053,-9999,8,-9999
+51483,41.38192,-91.25267,196,IA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,114,2460059,-9999,5,-9999
+51483,41.38192,-91.25267,196,IA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,109,2460054,-9999,5,-9999,1,2023,129,2460074,-9999,15,-9999
+51487,42.982422,-75.918854,343,NY,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,103,2460048,-9999,3,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+51487,42.982422,-75.918854,343,NY,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,117,2460062,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+51497,41.534363,-81.45742,314,OH,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,98,2460043,-9999,5,-9999,1,2023,131,2460076,-9999,5,-9999
+51497,41.534363,-81.45742,314,OH,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,123,2460068,-9999,7,-9999,1,2023,131,2460076,-9999,5,-9999
+51538,42.487904,-85.244698,278,MI,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,117,2460062,-9999,14,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+51597,42.351799,-71.083,3,MA,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2023,106,2460051,-9999,3,-9999,1,2023,123,2460068,-9999,5,-9999
+51597,42.351799,-71.083,3,MA,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,123,2460068,-9999,5,-9999,1,2023,123,2460068,-9999,5,-9999
+51924,35.351959,-85.325424,673,TN,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,96,2460041,-9999,17,-9999
+51924,35.351959,-85.325424,673,TN,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,0,-9999,-9999,-9999,-9999,-9999,-9999,1,2023,96,2460041,-9999,17,-9999
+52088,45.5508,-73.649063,33,QC,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2023,141,2460086,-9999,13,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+22976,32.230385,-110.951462,740,AZ,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2024,57,2460367,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46335,30.383759,-97.025719,115,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2024,49,2460359,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46657,32.966671,-95.298874,154,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2024,58,2460368,0,2,0,0,-9999,-9999,-9999,-9999,-9999,-9999
+46657,32.966671,-95.298874,154,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2024,58,2460368,-9999,2,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+46729,34.048958,-81.182037,61,SC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,3,2024,44,2460354,4.3333333333333,8,0.57735026918963,0,-9999,-9999,-9999,-9999,-9999,-9999
+47154,34.088436,-81.124901,76,SC,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2024,43,2460353,5,8,2,0,-9999,-9999,-9999,-9999,-9999,-9999
+50230,29.879728,-95.497734,24,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2024,47,2460357,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+50230,29.879728,-95.497734,24,TX,7,Cercis,canadensis,eastern redbud,Plantae,501,Open flowers,1,2024,47,2460357,-9999,4,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+53752,32.605484,-97.457291,216,TX,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,1,2024,52,2460362,-9999,7,-9999,0,-9999,-9999,-9999,-9999,-9999,-9999
+54029,37.964252,-91.831833,303,MO,7,Cercis,canadensis,eastern redbud,Plantae,500,Flowers or flower buds,2,2024,58,2460368,0,8,3,0,-9999,-9999,-9999,-9999,-9999,-9999
